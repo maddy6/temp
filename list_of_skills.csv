@@ -1,0 +1,2836 @@
+,Skills,Pbb
+1,Abaqus,0
+2,Acceptance testing,0
+3,Access control,0
+4,Accessability testing,0
+5,Account management,0
+6,Accountability,1
+7,Accounting,0
+8,Accounting software,0
+9,Accounts payable,1
+10,Accounts receivable,1
+11,AccuRev,0
+12,ACD,0
+13,ACL,0
+14,Acoustics,0
+15,Acquisition,1
+16,ACS,0
+17,ACT,0
+18,ActionScript,0
+19,Active Directory,0
+20,ActiveSync,0
+21,ActiveVOS,0
+22,ActiveX,0
+23,Activity diagrams,1
+24,ADA,0
+25,Adapter,0
+26,ADF,0
+27,ADFS,0
+28,Administrative support,0
+29,AdminStudio,0
+30,ADO.NET,0
+31,Adobe,1
+32,Adobe Acrobat,0
+33,Adobe Captivate,0
+34,Adobe CQ,0
+35,Adobe Dreamweaver,0
+36,Adobe Edge,0
+37,Adobe Experience Manager,0
+38,Adobe Flash,0
+39,Adobe FrameMaker,0
+40,Adobe Illustrator,0
+41,Adobe InDesign,0
+42,Adobe PageMaker,0
+43,Adobe Photoshop,0
+44,Adobe Proto,0
+45,Adobe RoboHelp,0
+46,ADS,0
+47,ADSL,0
+48,Advanced analytics,0
+49,Advertising,0
+50,Aerodynamics,0
+51,Aeronautics,0
+52,Aerospace,0
+53,AFDX,0
+54,Aggregator,0
+55,Agile,0
+56,Agile PLM,0
+57,Agile testing,0
+58,Agilent,0
+59,Agilent ADS,0
+60,Agilent VEE,0
+61,Ajax,0
+62,Akamai,0
+63,Akka,0
+64,Alcatel-Lucent,0
+65,Alfresco,0
+66,Algorithms,0
+67,Allegro,0
+68,ALM,0
+69,Altera,0
+70,Altium,0
+71,Altium Designer,0
+72,Amazon DynamoDB,0
+73,Amazon EC2,0
+74,Amazon RDS,0
+75,Amazon Redshift,0
+76,Amazon Route 53,0
+77,Amazon S3,0
+78,Amazon SES,0
+79,Amazon SQS,0
+80,Amazon VPC,0
+81,Amazon Web Services,0
+82,AMBA,0
+83,Amdocs,0
+84,Amdocs Clarify CRM,0
+85,AML,0
+86,AMQP,0
+87,Analog circuits,0
+88,Analog electronics,0
+89,Analysis of algorithms,0
+90,Analytical skill,0
+91,Analytics,0
+92,Android,0
+93,Android ndk,0
+94,Android sdk,0
+95,AngularJS,0
+96,Animation,0
+97,ANSI,0
+98,ANSI C,0
+99,Ansible,0
+100,Ansys,0
+101,Antennas,0
+102,Antivirus,0
+103,AOP,0
+104,Apache Accumulo,0
+105,Apache ActiveMQ,0
+106,Apache Ant,0
+107,Apache.Avalon,0
+108,Apache Axis,0
+109,Apache Axis2,0
+110,Apache Camel,0
+111,Apache Cassandra,0
+112,Apache CloudStack,0
+113,Apache Commons,0
+114,Apache Cordova,0
+115,Apache CXF,0
+116,Apache Drill,0
+117,Apache Felix,0
+118,Apache Flex,0
+119,Apache Flume,0
+120,Apache Hadoop,0
+121,Apache HBase,0
+122,Apache Hive,0
+123,Apache HTTP Server,0
+124,Apache Ivy,0
+125,Apache James,0
+126,Apache JMeter,0
+127,Apache Kafka,0
+128,Apache Log4j,0
+129,Apache Log4net,0
+130,Apache.Lucene,0
+131,Apache Mahout,0
+132,Apache Maven,0
+133,Apache Oozie,0
+134,Apache OpenJPA,0
+135,Apache Pig,0
+136,Apache Pivot,0
+137,Apache ServiceMix,0
+138,Apache Solr,0
+139,Apache Struts,0
+140,Apache Tapestry,0
+141,Apache Tiles,0
+142,Apache Tomcat,0
+143,Apache TomEE,0
+144,Apache Velocity,0
+145,Apache Wicket,0
+146,Apache ZooKeeper,0
+147,APEX,0
+148,API,0
+149,API management,0
+150,APL,0
+151,Appcelerator,0
+152,AppDynamics,0
+153,Apple,0
+154,Applets,0
+155,Application analysis,0
+156,Application lifecycle management,0
+157,Application server,0
+158,Applicaton Development,0
+159,Applied physics,1
+160,APQP,0
+161,Arabic,1
+162,Arbortext,0
+163,Arbortext Editor,0
+164,ArcGIS,0
+165,ArchiCAD,0
+166,Architecture,0
+167,Archiving,0
+168,Ariba,0
+169,ARINC,0
+170,ARINC 653,0
+171,ARINC 661,0
+172,ARINC 818,0
+173,ARIS,0
+174,ARM,0
+175,ARP4754,0
+176,ARP4761,0
+177,Art,1
+178,Articulate,0
+179,Articulate Storyline,0
+180,Artificial intelligence,0
+181,Aruba,0
+182,AS2,0
+183,AS3,0
+184,AS9100,0
+185,ASA,0
+186,ASIC,0
+187,ASM,0
+188,ASP,0
+189,ASP.NET,0
+190,ASP.NET AJAX,0
+191,ASP.NET MVC,0
+192,AspectJ,0
+193,Aspen,0
+194,Assays,0
+195,Assembly,0
+196,Assembly language,0
+197,Asset accounting,0
+198,Asset management,0
+199,Asterisk,0
+200,ATE,0
+201,ATG,0
+202,ATL,0
+203,ATLAS,0
+204,Atlassian,0
+205,ATM,0
+206,ATP,0
+207,ATPG,0
+208,Attention to detail,0
+209,AUC,0
+210,Audio,1
+211,Audio codecs,0
+212,Audit,0
+213,Audit management,0
+214,Augmented reality,0
+215,AUT,0
+216,Authentication,0
+217,Author-it,0
+218,Authorization,1
+219,AutoCAD,0
+220,Autodesk,0
+221,Autodesk Inventor,0
+222,Autodesk Revit,0
+223,AutoIt,0
+224,Automated testing,0
+225,Automatic Data Processing,0
+226,Automation,0
+227,Automotive,0
+228,Automotive engineering,1
+229,AUTOSAR,0
+230,Autotest,0
+231,Avaya,0
+232,Aviation,0
+233,Avionics,0
+234,AVS,0
+235,AWK,0
+236,AWR,0
+237,AWS Elastic Beanstalk,0
+238,AWT,0
+239,AX,0
+240,AXI,0
+241,Axure,0
+242,Axway,0
+243,Baan,0
+244,BAC,0
+245,Back office,0
+246,Backbone.js,0
+247,Backend testing,0
+248,Backup,0
+249,Balsamiq,0
+250,BAM,0
+251,Bamboo,0
+252,Banking,0
+253,Barracuda,0
+254,Base SAS,0
+255,Bash,0
+256,Batch file,0
+257,Batch processing,0
+258,Batch testing,0
+259,BCM,0
+260,BCS,0
+261,BDD,0
+262,Behavior-driven development,0
+263,Behavioral modeling,0
+264,Benchmarking,0
+265,Benefits,0
+266,BES,0
+267,Best practices,0
+268,BEX,0
+269,BGP,0
+270,Big data,0
+271,Bilingual,0
+272,Bill of materials,0
+273,Billing,0
+274,BIM,0
+275,Biochemistry,0
+276,Bioinformatics,0
+277,Biology,0
+278,Biomedical engineering,0
+279,BIOS,0
+280,Biotechnology,0
+281,BIP,0
+282,BIRT,0
+283,Bitbucket,0
+284,Black-box testing,0
+285,BlackBerry,0
+286,Blade servers,0
+287,Blog,0
+288,Blue Coat,0
+289,Blueprint,0
+290,Bluetooth,0
+291,BMC,0
+292,BMC Patrol,0
+293,BMC Remedy,0
+294,BMIDE,0
+295,BMS,0
+296,BN,0
+297,BOM,0
+298,BOOMI,0
+299,Boost,0
+300,Bootstrap,0
+301,BOP,0
+302,BPCS,0
+303,BPEL,0
+304,BPM,0
+305,BPMN,0
+306,BPR,0
+307,Brand,1
+308,BRD,0
+309,BREW,0
+310,Bridging,0
+311,BRM,0
+312,BRMS,0
+313,Broadband,0
+314,Broadcasting,0
+315,Broadsoft,0
+316,Brocade,0
+317,BSC,0
+318,BSD,0
+319,BSM,0
+320,BSP,0
+321,BSS,0
+322,BT,0
+323,BTS,0
+324,Budget,1
+325,Bug tracking,0
+326,Bugzilla,0
+327,Build automation,0
+328,Building information modeling,0
+329,Burp suite,0
+330,Business acumen,0
+331,Business administration,0
+332,Business analysis,0
+333,Business analytics,0
+334,Business architecture,0
+335,Business cases,0
+336,Business communications,0
+337,Business development,0
+338,Business intelligence,0
+339,Business management,0
+340,Business model,0
+341,Business Objects,0
+342,Business operations,0
+343,Business owner,1
+344,Business process,0
+345,Business requirements,0
+346,Business rules,0
+347,Business systems,0
+348,Business transformation,0
+349,Buyer,1
+350,CAA,0
+351,CAB,0
+352,Cables,0
+353,Caching,0
+354,CAD,0
+355,CAD administration,0
+356,CADAM,0
+357,Cadence,0
+358,Cadence Virtuoso,0
+359,CAE,0
+360,CaliberRM,0
+361,Calibration,0
+362,Call center,1
+363,Calypso,0
+364,Calyx,0
+365,CAM,0
+366,Campaign management,0
+367,CAN,0
+368,CANalyzer,0
+369,CANoe,0
+370,CANscope,0
+371,CANstress,0
+372,CAP,0
+373,Capacity management,0
+374,Capacity planning,0
+375,Capital management,0
+376,CAPL,0
+377,CAPM,0
+378,Carrier Ethernet,0
+379,CAS,0
+380,Cascading,0
+381,Case management,0
+382,Cash handling,0
+383,Cash management,0
+384,Catalog management,0
+385,CATIA,0
+386,CBASIC,0
+387,CBP,0
+388,CCAA,0
+389,CCM,0
+390,CDA,0
+391,CDC,0
+392,CDD,0
+393,CDH,0
+394,CDMA,0
+395,CDP,0
+396,Cellular,0
+397,CentOS,0
+398,Centricity,0
+399,CFD,0
+400,CGI,0
+401,Change control,0
+402,Change management,0
+403,Changeman,0
+404,CheckPoint,0
+405,Chef,0
+406,Chemical engineering,0
+407,Chemicals,0
+408,Chemistry,0
+409,Chicago Manual of Style,1
+410,Chinese,1
+411,CICS,0
+412,CIM,0
+413,Circuit analysis,0
+414,Circuit design,0
+415,CIS,0
+416,CISA,0
+417,Cisco Certifications,0
+418,Cisco ICM,0
+419,Cisco IOS,0
+420,Cisco Jabber,0
+421,Cisco Nexus,0
+422,Cisco UCCX,0
+423,Cisco UCS,0
+424,Cisco Voice,0
+425,CISM,0
+426,CISO,0
+427,CISSP,0
+428,Citrix,0
+429,Citrix XenApp,0
+430,Claims,0
+431,Claims management,0
+432,Clarity,1
+433,Client/server,0
+434,Clinical research,0
+435,CLIST,0
+436,CLM,0
+437,Clojure,0
+438,Cloud,0
+439,Cloud architecture,0
+440,Cloud Foundry,0
+441,Cloud management,0
+442,Cloud testing,0
+443,Cloudera,0
+444,Cloudera Impala,0
+445,Cloverleaf,0
+446,Cluster,0
+447,Cluster analysis,0
+448,Clustering,0
+449,CM,0
+450,CMake,0
+451,CMC,0
+452,CMM,0
+453,CMMI,0
+454,CMOS,0
+455,CMS,0
+456,CMVC,0
+457,CNC,0
+458,CNE,0
+459,CNS,0
+460,CO,0
+461,Coaching,1
+462,COBOL,0
+463,Cocoa,0
+464,Cocoa Touch,0
+465,Code coverage,0
+466,Code optimization,0
+467,Code refactoring,0
+468,Code review,0
+469,CodeCollaborator,0
+470,Codecs,0
+471,Coded UI,0
+472,CodeIgniter,0
+473,COE,0
+474,ColdFusion,0
+475,Collaboration,0
+476,Collections,1
+477,Collections management,0
+478,Color theory,0
+479,COM,0
+480,Commerce,0
+481,Commodities,1
+482,Communications management,0
+483,Communications protocol,0
+484,Communications security management,0
+485,Community development,0
+486,Compatibility testing,0
+487,Compensation,0
+488,Competitor analysis,0
+489,Compiler,0
+490,Compliance,0
+491,Component interface,0
+492,Compositing,0
+493,Computer,1
+494,Computer architecture,0
+495,Computer engineering,1
+496,Computer graphics,0
+497,Computer maintenance,0
+498,Computer science,1
+499,Computer vision,0
+500,Computerized system validation,0
+501,COMSOL,0
+502,Concept development,0
+503,Conceptual design,0
+504,Conceptualization,0
+505,Configuration,0
+506,Conflict resolution,1
+507,Confluence,0
+508,Conformance testing,0
+509,Construction management,0
+510,Consulting,0
+511,Consumer electronics,0
+512,Contact center,1
+513,Contact management,0
+514,Content creation,0
+515,Content development,0
+516,Content management systems,0
+517,Content strategy,0
+518,Contextual inquiry,0
+519,Continuous delivery,0
+520,Continuous improvement,0
+521,Continuous integration,0
+522,Contract management,0
+523,Control engineering,0
+524,Control flow,0
+525,Control system,0
+526,Controls,0
+527,Convio,0
+528,COO,0
+529,CORBA,0
+530,Core banking,0
+531,Core Data,0
+532,CorelDRAW,0
+533,CoreOS,0
+534,Corporate development,0
+535,Corrective and preventive action,0
+536,Cosmos,0
+537,Cost-benefit analysis,0
+538,Cost estimation,0
+539,Cost management,0
+540,Cost reduction,0
+541,COTS,0
+542,Couchbase,0
+543,Coverity,0
+544,CPE,0
+545,CPG,0
+546,CPQ,0
+547,CPT,0
+548,CPU,0
+549,CQ,0
+550,CRA,0
+551,CRB,0
+552,CRD,0
+553,Creative management,0
+554,Creative problem solving,0
+555,Creativity,0
+556,Creo,0
+557,CRF,0
+558,Critical thinking,0
+559,CRM,0
+560,CRO,0
+561,Cross-browser,0
+562,Cross-browser compatibility testing,0
+563,Cross-functional,0
+564,Cross-functional integration,0
+565,Cross-functional team,0
+566,CRS,0
+567,Crucible,0
+568,CruiseControl,0
+569,Cryptography,0
+570,Crystal Reports,0
+571,CS,0
+572,CSC,0
+573,CSE,0
+574,CSI,0
+575,CSM,0
+576,CSP,0
+577,CSQA,0
+578,CSR,0
+579,CSS,0
+580,CSV,0
+581,CTI,0
+582,CTP,0
+583,CTS,0
+584,Cubes,0
+585,CUC,0
+586,Cucumber,0
+587,CUDA,0
+588,CUP,0
+589,Customer communications,0
+590,Customer engagement,0
+591,Customer experience,0
+592,Customer facing,0
+593,Customer focus,0
+594,Customer satisfaction,0
+595,Customer service,0
+596,Customer support,0
+597,Customization,0
+598,CVP,0
+599,CVS,0
+600,Cyber security,0
+601,Cygwin,0
+602,D3.js,0
+603,DA,0
+604,DAC,0
+605,DAM,0
+606,DAO,0
+607,DAQ,0
+608,DAS,0
+609,Dashboard,0
+610,Data-driven testing,0
+611,Data acquisition,0
+612,Data analysis,0
+613,Data architecture,0
+614,Data center,0
+615,Data cleansing,0
+616,Data collection,0
+617,Data conversion,0
+618,Data domain,0
+619,Data engineering,0
+620,Data entry,0
+621,Data extraction,0
+622,Data flow,1
+623,Data integration,0
+624,Data integrity,0
+625,Data Loader,0
+626,Data loss prevention,0
+627,Data management,0
+628,Data manipulation,0
+629,Data mapping,0
+630,Data marts,0
+631,Data migration,0
+632,Data mining,0
+633,Data modeling,0
+634,Data processing,0
+635,Data profiling,0
+636,Data retention,0
+637,Data science,0
+638,Data security,0
+639,Data services,0
+640,Data storage,0
+641,Data structure,0
+642,Data validation,0
+643,Data visualization,0
+644,Data warehouse,0
+645,Database,0
+646,Database analysis,0
+647,Database architecture,0
+648,Database design,0
+649,Database migration,0
+650,Database mirroring,0
+651,Database modeling,0
+652,Database performance tuning,0
+653,Datacap,0
+654,Datacom,0
+655,DaVinci,0
+656,DAX,0
+657,DBA,0
+658,DBX,0
+659,DCM,0
+660,DCOM,0
+661,DDMS,0
+662,Debugging,0
+663,Decision-making,0
+664,Decision trees,0
+665,Defect analysis,0
+666,Defect tracking,0
+667,Delivery management,0
+668,Dell,0
+669,DELMIA,0
+670,Demand forecasting,0
+671,Demonstrations,0
+672,Dependency injection,0
+673,Derivatives,0
+674,Descriptive programming,0
+675,Design controls,0
+676,Design documentation,0
+677,Design engineering,0
+678,Design for manufacturability,0
+679,Design management,0
+680,Design optimization,0
+681,Design patterns,0
+682,Design review,0
+683,Design thinking,0
+684,Desktop,1
+685,Development management,0
+686,Development testing,0
+687,Device drivers,0
+688,DevOps,0
+689,DevTrack,0
+690,DFA,0
+691,DFD,0
+692,DFM,0
+693,DFMA,0
+694,DFSS,0
+695,DFT,0
+696,DHCP,0
+697,DHTML,0
+698,DIAMETER,0
+699,Digital,1
+700,Digital art,0
+701,Digital circuit design,0
+702,Digital design,0
+703,Digital marketing,0
+704,Digital photography,0
+705,Digital signal processing,0
+706,Dimensional modeling,0
+707,Directory Services,0
+708,Disaster recovery,0
+709,Discrete manufacturing,0
+710,Distributed computing,0
+711,Distribution,1
+712,DITA,0
+713,DIVA,0
+714,Django,0
+715,DLL,0
+716,DM,0
+717,DMA,0
+718,DMAIC,0
+719,DML,0
+720,DMM,0
+721,DMR,0
+722,DMS,0
+723,DMZ,0
+724,DNS,0
+725,DO-160,0
+726,DO-178B,0
+727,DO-178C,0
+728,DOCSIS,0
+729,Doctrine,0
+730,Document imaging,0
+731,Document management,0
+732,Documentation,0
+733,DOE,0
+734,Dojo,0
+735,DOM,0
+736,DOS,0
+737,DOT,0
+738,DPS,0
+739,DRA,0
+740,DRAM,0
+741,Drawing,0
+742,Drive testing,0
+743,DRM,0
+744,Drools,0
+745,DRP,0
+746,DRS,0
+747,Drupal,0
+748,DS,0
+749,DSC,0
+750,DSL,0
+751,DSLAM,0
+752,DSP,0
+753,DSS,0
+754,DTC,0
+755,DTD,0
+756,DTP,0
+757,DTS,0
+758,Due diligence,0
+759,DV,0
+760,DVB,0
+761,DVM,0
+762,DVR,0
+763,DWDM,0
+764,DxDesigner,0
+765,DXL,0
+766,Dynamic testing,0
+767,Dynamics,0
+768,Dynatrace,0
+769,E-learning,0
+770,EAI,0
+771,EBS,0
+772,ECAD,0
+773,Eclipse,0
+774,ECM,0
+775,Economics,0
+776,ECS,0
+777,EDA,0
+778,EDI,0
+779,EDIS,0
+780,Editing,0
+781,Editorial,0
+782,EDM,0
+783,EDS,0
+784,Education,0
+785,EEG,0
+786,EF,0
+787,Effective communication,0
+788,EFS,0
+789,eGate,0
+790,Ehcache,0
+791,EHR,0
+792,EIGRP,0
+793,EIM,0
+794,EIP,0
+795,Elasticsearch,0
+796,Electrical engineering,0
+797,Electrical wiring,0
+798,Electrician,0
+799,Electromechanics,0
+800,Electronic engineering,0
+801,Electronic packaging,0
+802,Electronics,0
+803,Element management system,0
+804,Eloqua,0
+805,Emacs,0
+806,Email,1
+807,embedded,0
+808,Embedded C,0
+809,embedded device testing,0
+810,Embedded Linux,0
+811,Embedded software,0
+812,Embedded systems,0
+813,Ember.js,0
+814,EMC,0
+815,EME,0
+816,EMEA,0
+817,Emerging technologies,0
+818,EMI,0
+819,EMR,0
+820,EMS,0
+821,Emulation,0
+822,EMV,0
+823,Encryption,0
+824,End-user computing,0
+825,End-user training,0
+826,Endeca,0
+827,Energy,0
+828,Engagement management,0
+829,Engineering analysis,0
+830,Engineering design,0
+831,Engineering support,0
+832,Engineering technician,0
+833,English,1
+834,ENOVIA,0
+835,Enterprise architecture,0
+836,Enterprise integration,0
+837,Enterprise JavaBeans,0
+838,Enterprise mobility management,0
+839,Enterprise networks,0
+840,Enterprise services,0
+841,Enterprise software,0
+842,Entity Framework,0
+843,Environment management,0
+844,Environmental,0
+845,EP,0
+846,EPC,0
+847,EPIC,0
+848,Epicor,0
+849,EPLAN,0
+850,EPM,0
+851,ER/Studio,0
+852,Ericsson,0
+853,ERP,0
+854,ERS,0
+855,ERwin,0
+856,ESB,0
+857,Escalation management,0
+858,ESD,0
+859,ESP,0
+860,ESS,0
+861,Essbase,0
+862,Estimating,1
+863,Ethernet,0
+864,ETL,0
+865,ETM,0
+866,Evaluation,1
+867,EVDO,0
+868,Event management,0
+869,Exceed,1
+870,Expect,1
+871,Experience design,0
+872,Exploratory testing,0
+873,EXT,0
+874,Ext JS,0
+875,Extraction,0
+876,Extreme programming,0
+877,F5,0
+878,Facebook,1
+879,Facilitation,0
+880,Failover,0
+881,Failure analysis,0
+882,FAR,0
+883,FC,0
+884,FCAPS,0
+885,FCoE,0
+886,FDA,0
+887,FEA,0
+888,Feasibility study,0
+889,FedRAMP,0
+890,FEM,0
+891,FFmpeg,0
+892,Fiber channel,0
+893,Fiddler,0
+894,Field engineering,0
+895,Field service,0
+896,FIFO,0
+897,File formats,0
+898,File systems,0
+899,FileNet,0
+900,Filing,0
+901,FIM,0
+902,Finance,0
+903,Financial accounting,0
+904,Financial analysis,0
+905,Financial management,0
+906,Financial reporting,0
+907,Financial services,0
+908,Finite element,0
+909,Firebug,0
+910,Firefox,0
+911,Firewall,0
+912,Firmware,0
+913,Firmware development,0
+914,FishEye,0
+915,FIT,0
+916,FIX,0
+917,Fixed assets,0
+918,Flask,0
+919,Flat file,0
+920,Fleet management,0
+921,FloTHERM,0
+922,Flowchart,0
+923,Fluency,1
+924,fluent,0
+925,Fluid mechanics,0
+926,FM,0
+927,FMEA,0
+928,FMECA,0
+929,FMS,0
+930,FOCUS,0
+931,FogBugz,0
+932,Force.com,0
+933,Forecasting,0
+934,Formal verification,0
+935,Forms,0
+936,Fortify,0
+937,Fortran,0
+938,Foundry,0
+939,FPGA,0
+940,FRACAS,0
+941,Frame Relay,0
+942,Framework,0
+943,Fraud management,0
+944,FreeBSD,0
+945,FreeSWITCH,0
+946,French,0
+947,FRS,0
+948,FTA,0
+949,FTP,0
+950,FTS,0
+951,FTTX,0
+952,Function generator,0
+953,Functional analysis,0
+954,Functional design,0
+955,Functional requirements,0
+956,Functional specification,0
+957,Functional testing,0
+958,Fusion,0
+959,FxCop,0
+960,GA,0
+961,Gambit,0
+962,Gaming,0
+963,GAMP,0
+964,GAP,0
+965,Gap analysis,0
+966,GC,0
+967,GCC,0
+968,GCD,0
+969,GDB,0
+970,GDP,0
+971,GEM,0
+972,General Ledger,0
+973,Genesys,0
+974,Gentran,0
+975,Geographic information system,0
+976,German,0
+977,GGSN,0
+978,Ghost,0
+979,GHS,0
+980,Git,0
+981,GitHub,0
+982,GL,0
+983,GlassFish,0
+984,GLM,0
+985,Global delivery,0
+986,Global marketing,0
+987,GLP,0
+988,GMLAN,0
+989,GMP,0
+990,GNU,0
+991,Good manufacturing practice,1
+992,Google Analytics,0
+993,Google App Engine,0
+994,Google Apps,0
+995,Google Chrome,0
+996,Google Drive,0
+997,Google Maps,0
+998,Google Maps API,0
+999,Google Web Toolkit,0
+1000,Google+,0
+1001,GOP,0
+1002,Governance,0
+1003,Government,0
+1004,GPIB,0
+1005,GPM,0
+1006,GPP,0
+1007,GPRS,0
+1008,GPS,0
+1009,GPU,0
+1010,GR,0
+1011,Gradle,0
+1012,Grails,0
+1013,Graphics,0
+1014,Graphite,0
+1015,Gray box testing,0
+1016,Green Hills,0
+1017,Green Hills Integrity,0
+1018,GRID,0
+1019,Groovy,0
+1020,Group policy,0
+1021,GRXML,0
+1022,GSLB,0
+1023,GSM,0
+1024,GStreamer,0
+1025,GTP,0
+1026,GTS,0
+1027,GUI,0
+1028,GWT,0
+1029,GXP,0
+1030,GXS,0
+1031,H.323,0
+1032,HAL,0
+1033,Hand tools,0
+1034,Hansoft,0
+1035,HAP,0
+1036,Hardening,0
+1037,Hardware,0
+1038,Hardware development,0
+1039,Hardware installation,0
+1040,Hardware troubleshooting,0
+1041,HATS,0
+1042,HB,0
+1043,HCI,0
+1044,HD,0
+1045,HDD,0
+1046,HDFS,0
+1047,HDL,0
+1048,HDM,0
+1049,HDMI,0
+1050,Health care,0
+1051,HEAT,0
+1052,Heat transfer,0
+1053,Help desk,0
+1054,Heroku,0
+1055,Heuristic evaluation,0
+1056,HFSS,0
+1057,Hibernate,0
+1058,High-level design,0
+1059,HIPAA,0
+1060,HIT,0
+1061,Hitachi,0
+1062,HITECH,0
+1063,HL7,0
+1064,HLD,0
+1065,HLLAPI,0
+1066,HLR,0
+1067,HMC,0
+1068,HMI,0
+1069,Hortonworks,0
+1070,Hospitality,0
+1071,Hosting,0
+1072,HP,0
+1073,HP-UX,0
+1074,HP ALM,0
+1075,HP Data Protector,0
+1076,HP LoadRunner,0
+1077,HP Performance Center,0
+1078,HP PPM,0
+1079,HP Quality Center,0
+1080,HP QuickTest Professional,0
+1081,HP Server,0
+1082,HP SiteScope,0
+1083,HQL,0
+1084,HSPICE,0
+1085,HSRP,0
+1086,HSS,0
+1087,HTML,0
+1088,HTML5,0
+1089,HTTP,0
+1090,HTTPS,0
+1091,HUAWEI,0
+1092,Hudson,0
+1093,Human-computer interaction,0
+1094,Human resources,0
+1095,HVAC,0
+1096,Hybris,0
+1097,Hydraulics,0
+1098,Hyper-V,0
+1099,Hyperion,0
+1100,Hyperlynx,0
+1101,Hypermesh,0
+1102,I2C,0
+1103,IaaS,0
+1104,IAR,0
+1105,iBATIS,0
+1106,IBM,0
+1107,IBM AIX,0
+1108,IBM Assembler,0
+1109,IBM Cognos,0
+1110,IBM Cognos BI,0
+1111,IBM Cognos Framework Manager,0
+1112,IBM Cognos Report Studio,0
+1113,IBM Cognos TM1,0
+1114,IBM Cognos Transformer,0
+1115,IBM DB2,0
+1116,IBM HTTP Server,0
+1117,IBM IMS,0
+1118,IBM Informix,0
+1119,IBM InfoSphere,0
+1120,IBM.ODM,0
+1121,IBM Rational,0
+1122,IBM Rational ClearCase,0
+1123,IBM Rational ClearQuest,0
+1124,IBM Rational DOORS,0
+1125,IBM Rational Performance Tester,0
+1126,IBM Rational Quality Manager,0
+1127,IBM Rational RequisitePro,0
+1128,IBM Rational Synergy,0
+1129,IBM Rational Team Concert,0
+1130,IBM RPG,0
+1131,IBM Security AppScan,0
+1132,IBM Sterling Commerce,0
+1133,IBM Storage,0
+1134,IBM WebSphere,0
+1135,IBM WebSphere Application Server,0
+1136,IBM WebSphere Commerce,0
+1137,IBM WebSphere MQ,0
+1138,IBM WebSphere Process Server,0
+1139,IBM WID,0
+1140,IBM Worklight,0
+1141,IC,0
+1142,ICC,0
+1143,ICE,0
+1144,ICEfaces,0
+1145,ICH,0
+1146,ICM,0
+1147,ICMP,0
+1148,ICOMS,0
+1149,ICS,0
+1150,IDC,0
+1151,IDE,0
+1152,IDEA,0
+1153,Ideation,0
+1154,Identity management,0
+1155,IDLE,0
+1156,IDoc,0
+1157,IDS,0
+1158,IEEE 802.11,0
+1159,IEEE 802.1X,0
+1160,IGBT,0
+1161,IGMP,0
+1162,IHE,0
+1163,Illustration,0
+1164,IM,0
+1165,Image analysis,0
+1166,Image editing,0
+1167,Image management,0
+1168,Image processing,0
+1169,Image segmentation,0
+1170,IMAP,0
+1171,IMPACT,0
+1172,Implementation,1
+1173,Implementation management,0
+1174,Incident management,0
+1175,IND,0
+1176,Industrial design,0
+1177,Industrial engineering,0
+1178,Infinium,0
+1179,Infor,0
+1180,Informatica,0
+1181,Informatica PowerCenter,0
+1182,Informatics,0
+1183,Information Analyzer,0
+1184,Information architecture,0
+1185,Information design,0
+1186,Information lifecycle management,0
+1187,Information management,0
+1188,Information mapping,0
+1189,Information security,0
+1190,Information systems,0
+1191,Infragistics,0
+1192,Infrastructure,0
+1193,Infrastructure architecture,0
+1194,Infrastructure management,0
+1195,Injection molding,0
+1196,Innovation,0
+1197,INSPECT,0
+1198,Inspection,0
+1199,InstallAnywhere,0
+1200,Installation,0
+1201,Installshield,0
+1202,Instructional design,0
+1203,Instrumentation,0
+1204,Insurance,0
+1205,Integration,0
+1206,Integration architecture,0
+1207,Integration Broker,0
+1208,Integration management,0
+1209,Integration testing,0
+1210,Intellectual property,0
+1211,Intelligence,1
+1212,IntelliJ IDEA,0
+1213,Interaction design,0
+1214,Interactive marketing,0
+1215,Interface design,0
+1216,Interfaces,0
+1217,Interfaces management,0
+1218,Internal communications,0
+1219,Internationalization and localization,0
+1220,Internet,0
+1221,Internet Explorer,0
+1222,Internet research,0
+1223,Interwoven,0
+1224,Intranet,0
+1225,Inventory,0
+1226,Inventory control,0
+1227,Inventory management,0
+1228,Investigation,0
+1229,Invoices,0
+1230,IO,0
+1231,IOC,0
+1232,iOLAP,0
+1233,ION,0
+1234,iOS,0
+1235,IOT,0
+1236,IP,0
+1237,iPad,0
+1238,IPC,0
+1239,IPDR,0
+1240,iPhone,0
+1241,IPMI,0
+1242,IPS,0
+1243,IPsec,0
+1244,iptables,0
+1245,IPTV,0
+1246,IPv4,0
+1247,IPv6,0
+1248,IQ,0
+1249,IR,0
+1250,IRD,0
+1251,IronPython,0
+1252,ISA,0
+1253,iSCSI,0
+1254,ISDN,0
+1255,ISE,0
+1256,ISIS,0
+1257,ISO 13485,0
+1258,ISO 9000,0
+1259,ISP,0
+1260,ISS,0
+1261,ISSE,0
+1262,Issue resolution,0
+1263,Issue tracking,0
+1264,ISTQB,0
+1265,ISUP,0
+1266,IT architecture,0
+1267,IT security assessment,0
+1268,ITIL,0
+1269,ITK,0
+1270,Itko,0
+1271,ITL,0
+1272,IVR,0
+1273,Ixia,0
+1274,J2EE,0
+1275,J2ME,0
+1276,JAM,0
+1277,Jama,0
+1278,Japanese,1
+1279,Jasmine,0
+1280,JasperReports,0
+1281,JasperSoft,0
+1282,Java,0
+1283,Java SE,0
+1284,Java Servlets,0
+1285,JavaBeans,0
+1286,JavaFX,0
+1287,JavaMail,0
+1288,JavaScript,0
+1289,JavaScriptMVC,0
+1290,JAWS,0
+1291,JAX,0
+1292,JAX-RS,0
+1293,JAX-WS,0
+1294,JAXB,0
+1295,JBA,0
+1296,jBPM,0
+1297,JCL,0
+1298,JConsole,0
+1299,JD,0
+1300,JDBC,0
+1301,JDE,0
+1302,JDK,0
+1303,JDO,0
+1304,JEDEC,0
+1305,Jenkins,0
+1306,Jersey,0
+1307,Jetty,0
+1308,JIRA,0
+1309,JMP,0
+1310,JMS,0
+1311,JMX,0
+1312,JNCIA,0
+1313,JNDI,0
+1314,JNI,0
+1315,Job scheduling,0
+1316,Joomla,0
+1317,Journalism,0
+1318,JPA,0
+1319,JProbe,0
+1320,JProfiler,0
+1321,jQuery,0
+1322,jQuery Mobile,0
+1323,jQuery UI,0
+1324,JScript,0
+1325,JSE,0
+1326,JSON,0
+1327,JSP,0
+1328,JSR,0
+1329,JSTL,0
+1330,JTA,0
+1331,JTAG,0
+1332,Juniper,0
+1333,JUnit,0
+1334,JVM,0
+1335,Kanban,0
+1336,KCS,0
+1337,Kendo UI,0
+1338,Kentico CMS,0
+1339,Kerberos,0
+1340,Keyword research,0
+1341,Kickstart,0
+1342,KMAT,0
+1343,KMS,0
+1344,Knockout JS,0
+1345,Knowledge management,0
+1346,Knowledge sharing,0
+1347,KPI,0
+1348,KPI management,0
+1349,KVM,0
+1350,L2TP,0
+1351,Laboratory equipment,0
+1352,Laboratory management,0
+1353,LabVIEW,0
+1354,LabWindows/CVI,0
+1355,LACP,0
+1356,Ladder logic,0
+1357,LAMP,0
+1358,LAN,0
+1359,Laptop,0
+1360,Lasers,0
+1361,Lauterbach,0
+1362,layer.2.3.protocol,0
+1363,Layout,1
+1364,LDAP,0
+1365,LDP,0
+1366,LDRA,0
+1367,Lead generation,0
+1368,Leadership,1
+1369,LEC,0
+1370,LED,0
+1371,Legacy systems,0
+1372,Legal,0
+1373,LESS,0
+1374,Level design,0
+1375,Licensing,0
+1376,Licensing management,0
+1377,Life sciences,0
+1378,Lifecycle management,0
+1379,Liferay,0
+1380,Lighting,0
+1381,Linear algebra,0
+1382,Linear regression,0
+1383,LinkedIn,0
+1384,LINQ,0
+1385,Linux,0
+1386,Linux administration,0
+1387,Linux kernel,0
+1388,LISA,0
+1389,Lithography,0
+1390,LMS,0
+1391,Load balancing,0
+1392,Load testing,0
+1393,Location-based services,0
+1394,Log analysis,0
+1395,Log management,0
+1396,Log shipping,0
+1397,Logic analyzer,0
+1398,Logistic regression,0
+1399,Logistics,0
+1400,Logos,0
+1401,Lotus,0
+1402,LPS,0
+1403,LS-DYNA,0
+1404,LSF,0
+1405,LTE,0
+1406,LTP,0
+1407,Lua,0
+1408,LVM,0
+1409,LVS,0
+1410,LXC,0
+1411,MAC,0
+1412,Machine design,0
+1413,Machine learning,0
+1414,Machine vision,0
+1415,Machining,0
+1416,Macros,0
+1417,MadCap,0
+1418,Magento,0
+1419,MAGIC,0
+1420,MAGMA,0
+1421,Mainframe,0
+1422,Maintenance Management,0
+1423,Makefile,0
+1424,MAN,0
+1425,Managed services,0
+1426,Management reporting,0
+1427,Management skills,0
+1428,MANTAS,0
+1429,Manual testing,0
+1430,Manufacturing,0
+1431,Manufacturing engineering,0
+1432,Manufacturing execution system,0
+1433,Manufacturing operations,0
+1434,Manufacturing support,0
+1435,MAPICS,0
+1436,MAPPER,0
+1437,Mapping,0
+1438,MapReduce,0
+1439,Market research,0
+1440,Market share,0
+1441,Marketing,0
+1442,Marketing automation,0
+1443,Marketing planning,0
+1444,Marketing strategy,0
+1445,MarkLogic,0
+1446,MASS,0
+1447,Mastercam,0
+1448,Material characterization,0
+1449,Material handling,0
+1450,Materials management,0
+1451,Materials science,0
+1452,Mathcad,0
+1453,Mathematical modeling,0
+1454,Mathematics,0
+1455,MATLAB,0
+1456,MBA,0
+1457,MBIST,0
+1458,McAfee,0
+1459,MCU,0
+1460,MDB,0
+1461,MDM,0
+1462,MDS,0
+1463,MDX,0
+1464,Mechanical drawing,0
+1465,Mechanical engineering,0
+1466,Mechanics,0
+1467,Mechatronics,0
+1468,Media,0
+1469,Mediation,0
+1470,Medical imaging,0
+1471,Medical records,0
+1472,Medical terminology,0
+1473,Medical writing,0
+1474,MEDITECH,0
+1475,MEF,0
+1476,MEGA,0
+1477,Memcached,0
+1478,Mentor Graphics,0
+1479,Mentorship,0
+1480,Mercurial,0
+1481,Mercury,0
+1482,MES,0
+1483,Message queues,0
+1484,Messaging,0
+1485,MetaSwitch,0
+1486,Meteor,0
+1487,Metrics,0
+1488,Metrology,0
+1489,MFC,0
+1490,MGCP,0
+1491,MI,0
+1492,MIB,0
+1493,MIC,0
+1494,Micro Focus,0
+1495,Microbiology,0
+1496,Microcontrollers,0
+1497,Microprocessor,0
+1498,Microscope,0
+1499,Microsoft BI,0
+1500,Microsoft BizTalk Server,0
+1501,Microsoft Blend,0
+1502,Microsoft Dynamics AX,0
+1503,Microsoft Dynamics CRM,0
+1504,Microsoft Excel,0
+1505,Microsoft Exchange,0
+1506,Microsoft FrontPage,0
+1507,Microsoft IIS,0
+1508,Microsoft IIS administration,0
+1509,Microsoft InfoPath,0
+1510,Microsoft Lync,0
+1511,Microsoft Office,1
+1512,Microsoft Office Live,0
+1513,Microsoft OneNote,0
+1514,Microsoft Project,0
+1515,Microsoft Project Server,0
+1516,Microsoft SCCM,0
+1517,Microsoft.SCOM,0
+1518,Microsoft SCVMM,0
+1519,Microsoft Servers,0
+1520,Microsoft SharePoint,0
+1521,Microsoft SharePoint Designer,1
+1522,Microsoft Silverlight,0
+1523,Microsoft SQL Server,0
+1524,Microsoft SQL Server DBA,0
+1525,Microsoft SSAS,0
+1526,Microsoft SSIS,0
+1527,Microsoft SSRS,0
+1528,Microsoft technologies,0
+1529,Microsoft Test Manager,0
+1530,Microsoft TFS,0
+1531,Microsoft Virtual Server,0
+1532,Microsoft Visual Studio,0
+1533,Microsoft Windows,1
+1534,Microsoft Windows 7,0
+1535,Microsoft Windows 8,0
+1536,Microsoft.Windows.9x,0
+1537,Microsoft Windows Azure,0
+1538,Microsoft Windows CE,0
+1539,Microsoft Windows Mobile,0
+1540,Microsoft Windows Phone,0
+1541,Microsoft Windows SDK,0
+1542,Microsoft Windows XP,0
+1543,Microsoft Word,0
+1544,Microsoft.WSUS,0
+1545,MicroStrategy,0
+1546,Microwave,0
+1547,Middleware,0
+1548,Migration,0
+1549,MII,0
+1550,Military,0
+1551,Milling,0
+1552,MIME,0
+1553,MIMIX,0
+1554,Mingle,0
+1555,Minitab,0
+1556,MIPI,0
+1557,Mirroring,0
+1558,Mirth,0
+1559,MKS,0
+1560,MKS Integrity,0
+1561,MMC,0
+1562,MME,0
+1563,MMS,0
+1564,Mobile,0
+1565,Mobile applications,0
+1566,Mobile computing,0
+1567,Mobile development,0
+1568,Mobile device management,0
+1569,Mobile devices,0
+1570,Mobile security,0
+1571,Mobile technology,0
+1572,Mobile Web,0
+1573,Mobility management,0
+1574,Mockito,0
+1575,Mockups,0
+1576,Modbus,0
+1577,Model-based testing,0
+1578,Model N,0
+1579,Modeling,0
+1580,Modelsim,0
+1581,MOM,0
+1582,MongoDB,0
+1583,Monitoring,0
+1584,Mono,0
+1585,MOQ,0
+1586,MP3,0
+1587,MPE,0
+1588,MPEG,0
+1589,MPEG-2,0
+1590,MPI,0
+1591,MPLS,0
+1592,MPM,0
+1593,MPP,0
+1594,MPS,0
+1595,MQL,0
+1596,MQTT,0
+1597,MRI,0
+1598,MRO,0
+1599,MRP,0
+1600,MSBuild,0
+1601,MSC,0
+1602,MSI,0
+1603,MSP,0
+1604,MSS,0
+1605,MSTest,0
+1606,MSTP,0
+1607,MSTR,0
+1608,MTM,0
+1609,MTS,0
+1610,Mule,0
+1611,Multi-core,0
+1612,Multicast,0
+1613,Multimedia,0
+1614,Multimeter,0
+1615,Multitasking,1
+1616,Multithreading,0
+1617,MVC,0
+1618,MVC Framework,0
+1619,MVN,0
+1620,MVP,0
+1621,MVS,0
+1622,MVVM,0
+1623,MW,0
+1624,MySQL,0
+1625,MySQL DBA,0
+1626,Nagios,0
+1627,NAND,0
+1628,NAS,0
+1629,NASTRAN,0
+1630,NAT,0
+1631,NATURAL,0
+1632,Natural language processing,0
+1633,NDS,0
+1634,NEC,0
+1635,Needs analysis,0
+1636,Negative testing,0
+1637,Negotiations,0
+1638,Neo4j,0
+1639,NERC,0
+1640,Nessus,0
+1641,NetApp,0
+1642,NetBeans,0
+1643,NETCONF,0
+1644,Netcool,0
+1645,Netezza,0
+1646,NetScaler,0
+1647,NetScout,0
+1648,Network,0
+1649,Network analysis,0
+1650,Network architecture,0
+1651,Network cabling,0
+1652,Network design,0
+1653,Network layer,0
+1654,Network management,0
+1655,Network monitoring,0
+1656,Network operations,0
+1657,Network programming,0
+1658,Network protocols,0
+1659,Network security,0
+1660,Networking,0
+1661,Neural networks,0
+1662,New product introduction,0
+1663,NextGen,0
+1664,Nexus,0
+1665,NFPA,0
+1666,NFS,0
+1667,Nginx,0
+1668,NICE,0
+1669,Nintex,0
+1670,NIS,0
+1671,NIST,0
+1672,Nmap,0
+1673,NMS,0
+1674,NOC,0
+1675,Node.js,0
+1676,Nokia,0
+1677,Non-functional testing,0
+1678,Normalization,0
+1679,NoSQL,0
+1680,NPI,0
+1681,NTP,0
+1682,NumPy,0
+1683,NUnit,0
+1684,NVDA,0
+1685,OAM,0
+1686,OAuth,0
+1687,OBIEE,0
+1688,OBIEE administration,0
+1689,Object-relational mapping,0
+1690,Objective-C,0
+1691,OCS,0
+1692,Octave,0
+1693,OD,0
+1694,ODBC,0
+1695,ODS,0
+1696,OEM,0
+1697,OER,0
+1698,OFDM,0
+1699,Office automation,0
+1700,Offshore development,0
+1701,OLM,0
+1702,OLTP,0
+1703,OM,0
+1704,OmniGraffle,0
+1705,OMS,0
+1706,Onboarding,0
+1707,Online Help,0
+1708,Online learning,0
+1709,Online production,0
+1710,Onshore,0
+1711,OOAD,0
+1712,OOD,0
+1713,OOP,0
+1714,OOPS,0
+1715,OPC,0
+1716,Open source,0
+1717,OpenCart,0
+1718,OpenCL,0
+1719,OpenCV,0
+1720,OpenGL,0
+1721,OpenGL ES,0
+1722,OpenLayers,0
+1723,OpenMP,0
+1724,OpenSceneGraph,0
+1725,OpenSSL,0
+1726,OpenStack,0
+1727,OpenVMS,0
+1728,Operating systems,0
+1729,Operational excellence,0
+1730,Operations,0
+1731,Operations management,0
+1732,OPNET,0
+1733,Optics,0
+1734,Optimization,0
+1735,OQ,0
+1736,Oracle,0
+1737,Oracle Adaptive Access Manager,0
+1738,Oracle ADF,0
+1739,Oracle Application Framework,0
+1740,Oracle Applications,0
+1741,Oracle ASM,0
+1742,Oracle B2B,0
+1743,Oracle Data Guard,0
+1744,Oracle DBA,0
+1745,Oracle Developer,0
+1746,Oracle Exadata,0
+1747,Oracle Financials,0
+1748,Oracle Forms,0
+1749,Oracle GoldenGate,0
+1750,Oracle Grid Control,0
+1751,Oracle HCM,0
+1752,Oracle Identity Management,0
+1753,Oracle iPlanet Web Server,0
+1754,Oracle Linux,0
+1755,Oracle RAC,0
+1756,Oracle.RMS,0
+1757,Oracle SQL Developer,0
+1758,Oracle.TCA,0
+1759,Oracle WebCenter,0
+1760,Oracle WebLogic,0
+1761,Oracle WebLogic administration,0
+1762,Oracle Workflow,0
+1763,OrCAD,0
+1764,Order management,0
+1765,Order processing,0
+1766,Organizational management,0
+1767,Organizational skills,0
+1768,Organizational structure,0
+1769,ORM,0
+1770,OS X,0
+1771,Oscilloscope,0
+1772,OSE,0
+1773,OSGi,0
+1774,OSI,0
+1775,OSI model,0
+1776,OSIsoft,0
+1777,OSPF,0
+1778,OSR,0
+1779,OSS,0
+1780,OTN,0
+1781,Outreach,0
+1782,Outsourcing,0
+1783,OVM,0
+1784,OWASP,0
+1785,PaaS,0
+1786,PACE,0
+1787,Packaging design,0
+1788,Packaging engineering,0
+1789,Packet analysis,0
+1790,PADS,0
+1791,Parasoft,0
+1792,Partnership,1
+1793,Password management,0
+1794,Patch Management,0
+1795,Patents,0
+1796,Pattern recognition,0
+1797,Payment gateways,0
+1798,Payment processing,0
+1799,Payment systems,0
+1800,Payments,0
+1801,Payroll,0
+1802,PC,0
+1803,PCA,0
+1804,PCAD,0
+1805,PCB,0
+1806,PCI,0
+1807,PCI DSS,0
+1808,PCM,0
+1809,PCRF,0
+1810,PD,0
+1811,PDF,0
+1812,PDH,0
+1813,PDM,0
+1814,PDMS,0
+1815,PDO,0
+1816,PEARL,0
+1817,Pega,0
+1818,Penetration testing,0
+1819,Pentaho,0
+1820,PeopleCode,0
+1821,PeopleSoft,0
+1822,PeopleTools,0
+1823,Perforce,0
+1824,Performance analysis,0
+1825,Performance engineering,0
+1826,Performance improvement,0
+1827,Performance management,0
+1828,Performance monitoring,0
+1829,Performance testing,0
+1830,Performance tuning,0
+1831,Perl,0
+1832,Personas,0
+1833,Pervasive,0
+1834,PFC,0
+1835,PGP,0
+1836,PGW,0
+1837,Pharmaceutics,0
+1838,Pharmacy,0
+1839,PhoneGap,0
+1840,Photography,0
+1841,PHP,0
+1842,Physical data model,0
+1843,Physical layer,0
+1844,Physics,0
+1845,PIC,0
+1846,PICK,0
+1847,PIM,0
+1848,PIP,0
+1849,Pivot table,0
+1850,Pivotal,0
+1851,PKI,0
+1852,PL/SQL,0
+1853,Planning,0
+1854,Plastic design,0
+1855,Play Framework,0
+1856,PLC,0
+1857,PLL,0
+1858,PLM,0
+1859,PLS,0
+1860,PMD,0
+1861,PMO,0
+1862,PMP,0
+1863,PMS,0
+1864,pmstep,0
+1865,Pneumatics,0
+1866,PO,0
+1867,POC,0
+1868,Policies,0
+1869,POP,0
+1870,POP3,0
+1871,Portfolio management,0
+1872,Portlets,0
+1873,POS,0
+1874,Positive attitude,0
+1875,POSIX,0
+1876,Postfix,0
+1877,PostgreSQL,0
+1878,Postini,0
+1879,POSTMAN,0
+1880,PostScript,0
+1881,POTS,0
+1882,Power electronics,0
+1883,Power management,0
+1884,Power MOSFET Circuit,0
+1885,Power supply,0
+1886,Power tools,0
+1887,Power View,0
+1888,PowerBuilder,0
+1889,PowerCLI,0
+1890,PowerPC,0
+1891,PowerPivot,0
+1892,PPAP,0
+1893,PPC,0
+1894,PPM,0
+1895,PPP,0
+1896,PPS,0
+1897,PPT,0
+1898,PQ,0
+1899,PQM,0
+1900,PREDICT,0
+1901,Predictive analytics,0
+1902,Predictive modelling,0
+1903,Presales,0
+1904,Presentations,0
+1905,PrestaShop,0
+1906,Preventive maintenance,0
+1907,Prezi,0
+1908,PRI,0
+1909,Pricing,0
+1910,PrimeFaces,0
+1911,Print servers,0
+1912,Printers,0
+1913,Printing,0
+1914,Prism,0
+1915,Pro Tools,0
+1916,Pro*C,0
+1917,Pro/Mechanica,0
+1918,Problem analysis,0
+1919,Problem management,0
+1920,Problem solving,1
+1921,Procedure,1
+1922,Process analysis,0
+1923,Process automation,0
+1924,Process consulting,0
+1925,Process control,0
+1926,Process engineering,0
+1927,Process flow,0
+1928,Process improvement,0
+1929,Process integration,0
+1930,Process management,0
+1931,Process manufacturing,0
+1932,Process modeling,0
+1933,Process Monitor,0
+1934,Process optimization,0
+1935,Process outsourcing,0
+1936,Process reengineering,0
+1937,Process simulation,0
+1938,Procurement,0
+1939,Procurement management,0
+1940,Product costing,0
+1941,Product design,0
+1942,Product development,0
+1943,Product engineering,0
+1944,Product intelligence,0
+1945,Product lifecycle management,0
+1946,Product management,0
+1947,Product marketing,0
+1948,Product optimization,0
+1949,Product owner,1
+1950,Product planning,0
+1951,Product requirements,0
+1952,Product research,0
+1953,Product scoping,0
+1954,Product strategy,0
+1955,Product Studio,0
+1956,Product support,0
+1957,Production,0
+1958,Production artist,0
+1959,Production control,0
+1960,Production engineering,0
+1961,Productivity,0
+1962,Productivity improvement,0
+1963,ProE,0
+1964,Professional services,0
+1965,Professional writing,0
+1966,Program development,0
+1967,Program management,0
+1968,Program management office,0
+1969,Programmable logic controller,0
+1970,Programming,1
+1971,Project accounting,0
+1972,Project budget,0
+1973,Project coordination,0
+1974,Project costing,0
+1975,Project delivery,0
+1976,Project development,0
+1977,Project documentation,0
+1978,Project engineering,0
+1979,Project estimation,0
+1980,Project finance,0
+1981,Project implementation,0
+1982,Project management,0
+1983,Project planning,0
+1984,Project portfolio management,0
+1985,Project scheduling,0
+1986,Project scoping,0
+1987,Promotions,0
+1988,Proofreading,0
+1989,Prospecting,0
+1990,Protocol analysis,0
+1991,Prototyping,0
+1992,ProVision,0
+1993,Provisioning,0
+1994,PS,0
+1995,PSM,0
+1996,pSOS,0
+1997,PSP,0
+1998,PSpice,0
+1999,PSQL,0
+2000,PSTN,0
+2001,PTC,0
+2002,PTS,0
+2003,Public sector,0
+2004,Public speaking,0
+2005,Publications,0
+2006,Publisher,1
+2007,Publishing,0
+2008,Puppet,0
+2009,Purchase orders,0
+2010,Purchasing,0
+2011,PuTTY,0
+2012,PVCS,0
+2013,PXE,0
+2014,Python,0
+2015,QA,0
+2016,QA management,0
+2017,QAS,0
+2018,qc,0
+2019,QEMU,0
+2020,Qlikview,0
+2021,QML,0
+2022,QMS,0
+2023,QNX,0
+2024,QoS,0
+2025,QT,0
+2026,qtp,0
+2027,Quality audit,0
+2028,Quality control,0
+2029,Quality improvement,0
+2030,Quality inspection,0
+2031,Quality management,0
+2032,Quantitative analyst,0
+2033,Quartz,0
+2034,Query optimization,0
+2035,Quest,0
+2036,QuickBooks,0
+2037,Quicken,0
+2038,QUIKJOB,0
+2039,R,0
+2040,RabbitMQ,0
+2041,RAC,0
+2042,Rackspace,0
+2043,RAD,0
+2044,Radar,0
+2045,Radio,0
+2046,RADIUS,0
+2047,RAID,0
+2048,Rally,0
+2049,RAN,0
+2050,RANAP,0
+2051,Ranorex,0
+2052,Rapid prototyping,0
+2053,RAS,0
+2054,RCA,0
+2055,RDB,0
+2056,RDBMS,0
+2057,RDMS,0
+2058,REACH,0
+2059,Real-time,1
+2060,Reasoning,1
+2061,Receiving,1
+2062,Reconciliation,0
+2063,Recovery,0
+2064,Recruitment,0
+2065,Recruitment management,0
+2066,Red Hat Enterprise Linux,0
+2067,Red Hat Linux,0
+2068,Redis,0
+2069,Redmine,0
+2070,Reengineering,0
+2071,Regression testing,0
+2072,Regulatory reporting,0
+2073,Relationship building,0
+2074,Release engineering,0
+2075,Release management,0
+2076,Release notes,0
+2077,Reliability analysis,0
+2078,Reliability engineering,0
+2079,Remote access,0
+2080,Remote support,0
+2081,Repair,0
+2082,Replication,0
+2083,Report Studio,0
+2084,Report writing,0
+2085,Reporting,1
+2086,Requirements analysis,0
+2087,Requirements elicitation,0
+2088,Requirements engineering,0
+2089,Requirements management,0
+2090,Requirements traceability,0
+2091,Research,1
+2092,Research design,0
+2093,Research management,0
+2094,Resource allocation,0
+2095,Resource planning,0
+2096,Responsive design,0
+2097,RESTful,0
+2098,Restructuring,0
+2099,Retail,0
+2100,Revenue growth,0
+2101,Revenue management,0
+2102,Reverse engineering,0
+2103,Revision control,0
+2104,Rexx,0
+2105,RF,0
+2106,RF optimization,0
+2107,RFC,0
+2108,RFI,0
+2109,RFT,0
+2110,Rhapsody,0
+2111,Rhino,0
+2112,Riak,0
+2113,RICE,0
+2114,RichFaces,0
+2115,RightNow,0
+2116,RIP,0
+2117,Risk analysis,0
+2118,Risk assessment,0
+2119,Risk management,0
+2120,RMF,0
+2121,RMI,0
+2122,RNC,0
+2123,ROADM,0
+2124,Roadmaps,0
+2125,ROBOT,0
+2126,Robotics,0
+2127,Robotium,0
+2128,RoHS,0
+2129,ROOT,0
+2130,Root cause analysis,0
+2131,Routers,0
+2132,Routing,0
+2133,Routing protocols,0
+2134,RPC,0
+2135,RPM,0
+2136,RRC,0
+2137,RS-232,0
+2138,RSA,0
+2139,RSTP,0
+2140,rsync,0
+2141,RT,0
+2142,RTC,0
+2143,RTL,0
+2144,RTM,0
+2145,RTOS,0
+2146,RTP,0
+2147,RTSP,0
+2148,RTU,0
+2149,Ruby,0
+2150,Russian,1
+2151,RV,0
+2152,RWD,0
+2153,S-PLUS,0
+2154,S/MIME,0
+2155,S1000D,0
+2156,SaaS,0
+2157,SABA,0
+2158,SAFE,0
+2159,Sales,0
+2160,Sales management,0
+2161,Sales operations,0
+2162,Sales strategy,0
+2163,Salesforce.com administration,0
+2164,SAML,0
+2165,SAN,0
+2166,Sanity testing,0
+2167,SANS,0
+2168,SAP,0
+2169,SAP ABAP,0
+2170,SAP administration,0
+2171,SAP.APO,0
+2172,SAP BASIS,0
+2173,SAP BASIS administration,0
+2174,SAP BI,0
+2175,SAP CRM,0
+2176,SAP DBA,0
+2177,SAP DP,0
+2178,SAP ECC,0
+2179,SAP FI,0
+2180,SAP GUI,0
+2181,SAP HANA,0
+2182,SAP LE,0
+2183,SAP MII,0
+2184,SAP NetWeaver,0
+2185,SAP PA,0
+2186,SAP PI,0
+2187,SAP PP,0
+2188,SAP R/3,0
+2189,SAP SD,0
+2190,SAP Security,0
+2191,SAP Solution Manager,0
+2192,SAR,0
+2193,SAS,0
+2194,SAS 70,0
+2195,SAS/Access,0
+2196,Sass,0
+2197,SATCOM,0
+2198,Satellite,0
+2199,SAX,0
+2200,SBC,0
+2201,SCA,0
+2202,SCADA,0
+2203,Scade,0
+2204,Scala,0
+2205,Scalability,0
+2206,SCCP,0
+2207,Scheduling,0
+2208,Schematic,0
+2209,Schematic capture,0
+2210,Schematics,0
+2211,Scheme,0
+2212,Science,1
+2213,SCJP,0
+2214,SCL,0
+2215,SCM,0
+2216,SCO,0
+2217,Scope management,0
+2218,SCORM,0
+2219,SCOT,0
+2220,SCP,0
+2221,SCR,0
+2222,Scripting,0
+2223,Scripting language,0
+2224,Scrum,0
+2225,Scrum master,0
+2226,SCSI,0
+2227,SCTP,0
+2228,SD,0
+2229,SDET,0
+2230,SDH,0
+2231,SDK,0
+2232,SDL,0
+2233,SDLC,0
+2234,SDM,0
+2235,SDN,0
+2236,SDP,0
+2237,SDS,0
+2238,Search engines,0
+2239,SEC,0
+2240,Section 508,0
+2241,Security,0
+2242,Security architecture,0
+2243,Security engineering,0
+2244,Security policy,0
+2245,Security QA,0
+2246,SeeTest,0
+2247,Selenium,0
+2248,Selenium WebDriver,0
+2249,Semantics,0
+2250,Semiconductors,0
+2251,Sencha,0
+2252,Sendmail,0
+2253,Senior management,0
+2254,Sensors,0
+2255,SEP,0
+2256,Sequence diagrams,0
+2257,SERDES,0
+2258,Serena,0
+2259,Serial communication,0
+2260,Server administration,0
+2261,Server architecture,0
+2262,Server farms,0
+2263,Server hardware,0
+2264,Server Message Block,0
+2265,Server virtualization,0
+2266,Service assurance,0
+2267,Service delivery,0
+2268,Service delivery management,0
+2269,Service design,0
+2270,Service desk,1
+2271,Service management,0
+2272,Service operations,0
+2273,ServiceNow,0
+2274,Set-top box,0
+2275,SFA,0
+2276,SFTP,0
+2277,sgml,0
+2278,SGSN,0
+2279,Shared services,0
+2280,Shell,0
+2281,Shell scripting,0
+2282,Shipping,0
+2283,Siebel,0
+2284,Siebel administration,0
+2285,Siebel CRM,0
+2286,Siebel EAI,0
+2287,Siebel EIM,0
+2288,SIEM,0
+2289,Siemens,0
+2290,SIFT,0
+2291,Signal integrity,0
+2292,Signal processing,0
+2293,SIGTRAN,0
+2294,Sikuli,0
+2295,Silk,0
+2296,SilkTest,0
+2297,SIM,0
+2298,SIMS,0
+2299,Simulation,0
+2300,Simulink,0
+2301,SIP,0
+2302,SIT,0
+2303,Sitecore,0
+2304,Siteminder,0
+2305,Six Sigma,0
+2306,Six Sigma Black Belt,0
+2307,Six Sigma Green Belt,0
+2308,Sketch,0
+2309,Skype,0
+2310,SLA,0
+2311,SLES,0
+2312,Slowly changing dimensions,0
+2313,Smart grid,0
+2314,SmartDraw,0
+2315,Smartphones,0
+2316,Smarty,0
+2317,SMB,0
+2318,SMD,0
+2319,SME,0
+2320,SMP,0
+2321,SMPP,0
+2322,SMSC,0
+2323,SMT,0
+2324,Snagit,0
+2325,SNC,0
+2326,SNMP,0
+2327,Snort,0
+2328,SNOTE,0
+2329,Snow flake schema,0
+2330,SOA,0
+2331,SOAP,0
+2332,SoapUI,0
+2333,Social networks,0
+2334,Socket programming,0
+2335,Sockets,0
+2336,SODA,0
+2337,Soft skills,0
+2338,Software analysis,0
+2339,Software architecture,0
+2340,Software configuration,0
+2341,Software deployment,0
+2342,Software design,0
+2343,Software development methodology,0
+2344,Software distribution,0
+2345,Software documentation,0
+2346,Software engineering,0
+2347,Software implementation,0
+2348,Software installation,0
+2349,Software packaging,0
+2350,Software requirements specification,0
+2351,Software security,0
+2352,Soil mechanics,0
+2353,Solaris,0
+2354,Solaris administration,0
+2355,SolarWinds,0
+2356,Soldering,0
+2357,SOLID,0
+2358,Solid modeling,0
+2359,SolidEdge,0
+2360,SolidWorks,0
+2361,SolMan,0
+2362,Solution architecture,0
+2363,Solution delivery,0
+2364,Sonar,0
+2365,Sonet,0
+2366,SOP,0
+2367,SOQL,0
+2368,Sound design,0
+2369,Sourcing,0
+2370,Sourcing management,0
+2371,SOW,0
+2372,SPA,0
+2373,SPAM,0
+2374,Spanish,0
+2375,Spanning Tree Protocol,0
+2376,SPARC,0
+2377,SPC,0
+2378,Specification,0
+2379,Specman,0
+2380,Spectrum,0
+2381,Spectrum analyzer,0
+2382,Speech recognition,0
+2383,SPI,0
+2384,SPICE,0
+2385,Splunk,0
+2386,SPM,0
+2387,SPRE,0
+2388,Spring,0
+2389,Spring Batch,0
+2390,Spring MVC,0
+2391,Spring Security,0
+2392,Sprint,0
+2393,SPSS,0
+2394,SpyGlass,0
+2395,SQL,0
+2396,SQL Azure,0
+2397,SQL tuning,0
+2398,SQL*Loader,0
+2399,SQLite,0
+2400,SQLRPGLE,0
+2401,Squish,0
+2402,SR-IOV,0
+2403,SRD,0
+2404,SRM,0
+2405,SRS,0
+2406,SS7,0
+2407,SSD,0
+2408,SSI,0
+2409,SSL,0
+2410,SSL VPN,0
+2411,SSO,0
+2412,SST,0
+2413,STA,0
+2414,STAAD,0
+2415,Staff augmentation,0
+2416,Staff management,0
+2417,Stakeholder communications,0
+2418,Stakeholder management,0
+2419,Standard operating procedure,0
+2420,Star schema,0
+2421,StarTeam,0
+2422,Startups,0
+2423,Stata,0
+2424,Stateflow,0
+2425,Static timing analysis,0
+2426,STATISTICA,0
+2427,Statistical models,0
+2428,Statistical process control,0
+2429,Statistical signal processing,0
+2430,Status reports,0
+2431,STB,0
+2432,STE,0
+2433,STL,0
+2434,STLC,0
+2435,Storage,1
+2436,Storage architecture,0
+2437,Storage management,0
+2438,Storage virtualization,0
+2439,Stored procedures,0
+2440,Storyboard,0
+2441,STP,0
+2442,Strategic Analysis,0
+2443,Strategic planning,0
+2444,Strategic sourcing,0
+2445,Strategic thinking,0
+2446,Strategy,0
+2447,Strategy development,0
+2448,Stratus,0
+2449,Streaming,0
+2450,Stress analysis,0
+2451,Stress testing,0
+2452,struct,0
+2453,Structural analysis,0
+2454,Structural engineering,0
+2455,Structural mechanics,0
+2456,STS,0
+2457,Subfiles,0
+2458,Subject-matter expert,0
+2459,Succession planning,0
+2460,SunOS,0
+2461,Supervision,0
+2462,Supply chain management,0
+2463,Supply chain planning,0
+2464,Supply management,0
+2465,Surveillance,0
+2466,Survival analysis,0
+2467,SUSE Linux,0
+2468,SVA,0
+2469,SVC,0
+2470,SVG,0
+2471,SVM,0
+2472,SVN,0
+2473,Swing,0
+2474,Switchboard,0
+2475,Switches,0
+2476,SWT,0
+2477,Sybase,0
+2478,Sybase IQ,0
+2479,Symantec,0
+2480,Syncsort,0
+2481,Synon,0
+2482,Synopsys,0
+2483,SysML,0
+2484,System administration,0
+2485,System Center,0
+2486,System deployment,0
+2487,System documentation,0
+2488,System implementation,0
+2489,System integration,0
+2490,System integration testing,0
+2491,System monitoring,0
+2492,System requirements,0
+2493,System security,0
+2494,System testing,0
+2495,SystemC,0
+2496,Systems analysis,0
+2497,Systems architecture,0
+2498,Systems design,0
+2499,Systems engineering,0
+2500,Systems management,0
+2501,Systems modeling,0
+2502,SystemTap,0
+2503,SystemVerilog,0
+2504,Tableau,0
+2505,Tablet,0
+2506,TAC,0
+2507,TACACS,0
+2508,Talend,0
+2509,TAM,0
+2510,Tandem,0
+2511,TAO,0
+2512,Task analysis,0
+2513,Taxes,0
+2514,Taxonomy,0
+2515,TBS,0
+2516,Tcl,0
+2517,TCM,0
+2518,TCP,0
+2519,TCP/IP,0
+2520,tcpdump,0
+2521,TDF,0
+2522,TDM,0
+2523,TDP,0
+2524,Team building,1
+2525,Team leadership,1
+2526,Team management,1
+2527,Teamcenter,0
+2528,TeamCity,0
+2529,TeamSite,0
+2530,TeamTrack,0
+2531,Teamwork,0
+2532,Technical analysis,0
+2533,Technical communication,0
+2534,Technical director,0
+2535,Technical support,0
+2536,Technical training,0
+2537,Technical writing,0
+2538,Technician,1
+2539,Technology integration,0
+2540,Telco,0
+2541,Telecommunications,0
+2542,Telematics,0
+2543,Telephony,0
+2544,Telerik,0
+2545,Telnet,0
+2546,Teradata,0
+2547,Terminal server,0
+2548,Tersus,0
+2549,Test-driven development,0
+2550,Test cases,0
+2551,Test equipment,1
+2552,Test estimation,0
+2553,Test execution,0
+2554,Test management,0
+2555,Test Manager,0
+2556,Test methods,0
+2557,Test plans,0
+2558,Test scenarios,0
+2559,Test scripts,0
+2560,Test strategy,0
+2561,Test suites,0
+2562,TestComplete,0
+2563,TestLink,0
+2564,TestNG,0
+2565,TestStand,0
+2566,Texturing,0
+2567,TGA,0
+2568,Thermal analysis,0
+2569,Thermal management,0
+2570,Thermodynamics,0
+2571,Thin client,0
+2572,Thought leadership,0
+2573,Thread,0
+2574,ThreadX,0
+2575,Threat modeling,0
+2576,thyristor,0
+2577,TIBCO,0
+2578,TIBCO Adapters,0
+2579,TIBCO BusinessEvents,0
+2580,TIBCO BusinessWorks,0
+2581,TIBCO Hawk,0
+2582,TIBCO Spotfire,0
+2583,Tier 1,0
+2584,Tier 2,0
+2585,Tier 3,0
+2586,Time management,0
+2587,Time series,0
+2588,Timing closure,0
+2589,Tivoli,0
+2590,Tk,0
+2591,TLM,0
+2592,TLS,0
+2593,TM,0
+2594,TMS,0
+2595,Toad,0
+2596,TOGAF,0
+2597,TOR,0
+2598,TortoiseSVN,0
+2599,TPM,0
+2600,TPS,0
+2601,TPT,0
+2602,Trac,0
+2603,Traceability matrix,0
+2604,Trade shows management,0
+2605,Training,0
+2606,Training and development,0
+2607,Transact-SQL,0
+2608,Transformation,0
+2609,Transformer,0
+2610,Transition management,0
+2611,Translation,0
+2612,Transportation,0
+2613,Trend analysis,0
+2614,Troubleshooting,0
+2615,TTCN,0
+2616,Twilio,0
+2617,Twitter,0
+2618,TWS,0
+2619,TypeScript,0
+2620,Typography,0
+2621,UART,0
+2622,Ubuntu,0
+2623,UC,0
+2624,UCD,0
+2625,UCM,0
+2626,UCS,0
+2627,UDP,0
+2628,UEFI,0
+2629,UFT,0
+2630,UG,0
+2631,UI,0
+2632,UIKit,0
+2633,ultraxml,0
+2634,UML,0
+2635,UMTS,0
+2636,Underscore.js,0
+2637,Unified communications,0
+2638,Unigraphics NX,0
+2639,Unit testing,0
+2640,Unity,0
+2641,Unix,0
+2642,Upgrades,0
+2643,UPS,0
+2644,Usability,0
+2645,Usability testing,0
+2646,USB,0
+2647,USD,0
+2648,Use cases,0
+2649,User-centered design,0
+2650,User Administration,0
+2651,User experience management,0
+2652,User guides,0
+2653,User research,0
+2654,User stories,0
+2655,Utilities,0
+2656,UTRAN,0
+2657,UVM,0
+2658,UX,0
+2659,UXD,0
+2660,V-Model,0
+2661,Vagrant,0
+2662,Valgrind,0
+2663,Valuation,0
+2664,Value engineering,0
+2665,VAS,0
+2666,VAT,0
+2667,VBA,0
+2668,VBScript,0
+2669,VC,0
+2670,VCL,0
+2671,VCP,0
+2672,VCS,0
+2673,VDSL,0
+2674,Vendor development,0
+2675,Verification and validation,0
+2676,VeriFIX,0
+2677,Verilog,0
+2678,VersionOne,0
+2679,Vertex,0
+2680,Vertica,0
+2681,VHDL,0
+2682,VI,0
+2683,Video,1
+2684,Video editing,0
+2685,Video production,0
+2686,Video streaming,0
+2687,Videoconferencing,0
+2688,VIM,0
+2689,VIO,0
+2690,Virsa,0
+2691,Virtual Machine Manager,0
+2692,Virtual machines,0
+2693,Virtual team,0
+2694,VirtualBox,0
+2695,Virtualization,0
+2696,VISO,0
+2697,Visual Basic,0
+2698,Visual Basic .NET,0
+2699,Visual C++,0
+2700,Visualforce,0
+2701,Visualization,0
+2702,VLAN,0
+2703,VLOOKUP,0
+2704,VLSI,0
+2705,VME,0
+2706,VMM,0
+2707,VMS,0
+2708,VMware,0
+2709,VMware Certified Professional,0
+2710,VMware ESX,0
+2711,VMware ESXi,0
+2712,VMware vSphere,0
+2713,VMware Workstation,0
+2714,VoIP,0
+2715,VPI,0
+2716,VPN,0
+2717,VRRP,0
+2718,VSAM,0
+2719,VSS,0
+2720,VSTS,0
+2721,VTP,0
+2722,VTS,0
+2723,Vulnerability assessment,0
+2724,VxWorks,0
+2725,W3C,0
+2726,WAN,0
+2727,WAN optimization,0
+2728,WAR,0
+2729,Warehouse,0
+2730,Warehouse management,0
+2731,Waterfall,0
+2732,Watir,0
+2733,WAVE,0
+2734,WCAG,0
+2735,WCF,0
+2736,WCM,0
+2737,WDM,0
+2738,Web 2.0,0
+2739,Web analytics,0
+2740,Web API,0
+2741,Web application security,0
+2742,Web applications,0
+2743,Web content,0
+2744,Web content management,0
+2745,Web design,0
+2746,Web desktop,0
+2747,Web development,0
+2748,Web parts,0
+2749,Web portals,0
+2750,Web server,0
+2751,Web server administration,0
+2752,Web services,0
+2753,Web standards,0
+2754,Webforms,0
+2755,WebGL,0
+2756,webMethods,0
+2757,WebSocket,0
+2758,Weka,0
+2759,Welding,0
+2760,WF,0
+2761,WHCK,0
+2762,White-box testing,0
+2763,Wiki,0
+2764,WildFly,0
+2765,WiMAX,0
+2766,WINCVS,0
+2767,WinDbg,0
+2768,Windchill,0
+2769,Windows API,0
+2770,Windows Client,0
+2771,Windows drivers,0
+2772,Windows Forms,0
+2773,Windows Installer,0
+2774,Windows Services,0
+2775,WINS,0
+2776,wInsight,0
+2777,Winsock,0
+2778,wIntegrate,0
+2779,Wintel,0
+2780,WIP,0
+2781,Wireframe,0
+2782,Wireless,0
+2783,Wireless network,0
+2784,Wireless security,0
+2785,Wireshark,0
+2786,WISE,0
+2787,WLAN,0
+2788,WMS,0
+2789,Wonderware,0
+2790,WordPress,0
+2791,Workflow,0
+2792,Workflow management,0
+2793,Workflow Manager,1
+2794,WPF,0
+2795,Wrike,0
+2796,Writing,1
+2797,WSDL,0
+2798,WTL,0
+2799,WTT,0
+2800,WTX,0
+2801,WWAN,0
+2802,WWF,0
+2803,x86,0
+2804,XACML,0
+2805,Xamarin,0
+2806,XAML,0
+2807,XAMPP,0
+2808,Xcode,0
+2809,XEN,0
+2810,XenServer,0
+2811,Xilinx,0
+2812,XMetaL,0
+2813,XML,0
+2814,XMLSpy,0
+2815,XMPP,0
+2816,XPath,0
+2817,XQuery,0
+2818,XSD,0
+2819,XSL,0
+2820,XSLT,0
+2821,Xtend,0
+2822,Yii,0
+2823,YouTube,0
+2824,YUI,0
+2825,Zabbix,0
+2826,Zemax,0
+2827,ZEN,0
+2828,Zend,0
+2829,Zenoss,0
+2830,ZigBee,0
+2831,Zuken,0
+2832,C#,0
+2833,C++,0
+2834,.net,0
+2835,C,0
