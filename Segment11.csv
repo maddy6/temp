@@ -1,0 +1,162 @@
+Customer ,Jan'16,Feb'16,March'16,April'16,June'16,July'16,August'16,May'16,Nov'16,Oct'16,Sep'16,Dec'16,Grand Total,Segmentation Result 
+MICROSOFT CORPORATION,45,94,80,98,59,49,44,77,33,42,38,25,684,A
+AT&T Mobility LLC,6,13,32,71,19,27,18,10,23,10,16,11,256,A
+CISCO,17,13,13,26,6,50,9,15,8,9,10,8,184,A
+Google Inc,8,14,17,24,19,12,6,9,12,15,22,10,168,A
+The Boeing Company,9,13,26,6,9,8,7,24,3,10,14,7,136,A
+Western Union Inc,11,2,7,4,11,24,24,3,24,3,11,2,126,B
+INTEL CORP,11,10,4,12,11,8,25,8,7,12,14,3,125,A
+Hamilton Sundstrand Corporation,7,6,9,5,16,19,23,6,8,6,3,6,114,A
+"LiveTV, LLC",13,20,2,17,6,6,1,10,7,5,21,,108,A
+Verizon Wireless,7,13,9,15,4,21,5,6,3,1,10,7,101,A
+"Thales Avionics, Inc",29,13,9,9,,5,8,5,6,3,8,3,98,A
+Others,,13,,43,,5,5,13,14,4,,,97,B
+Depuy International,10,4,3,10,8,8,7,16,7,1,4,16,94,A
+Abbott Medical Optics Inc,4,19,10,2,13,1,4,2,10,7,3,1,76,B
+Baxter Healthcare Corporation,1,11,5,1,6,5,6,5,6,13,1,1,61,A
+T- Mobile,,8,3,,,9,14,2,5,6,3,9,59,A
+Go Daddy.com,6,1,8,1,7,4,3,23,,2,2,,57,B
+CenturyLink,,,,,,,36,,8,1,5,6,56,B
+Sirius XM Radio Inc.,1,2,2,1,3,10,1,15,3,8,,8,54,D
+Becton Dickinson Holdings Pte Ltd.,,8,2,9,,3,1,3,8,2,1,10,47,C
+Rockwell Collins,1,,4,9,7,10,4,6,3,,,2,46,A
+NCR Canada Limited,,,1,1,,,,,,24,13,,39,B
+NS international,,,,,1,,,30,,1,7,,39,B
+USAA,,10,3,2,1,2,1,,5,8,,2,34,D
+Siemens Product Lifecycle Manag Sof,,,,1,4,6,3,1,9,5,,5,34,C
+TRW Automotive Inc.,,4,1,1,1,5,2,4,,11,3,1,33,D
+Symantec Corporation,,7,3,,1,,6,,3,6,5,1,32,C
+"Calix, Inc.",,,1,,3,4,,1,,9,9,1,28,D
+Ann Taylor,2,4,,1,,3,,15,,2,1,,28,D
+SIEMENS Corporation,,,2,,3,,,1,,,4,17,27,B
+Alcatel-Lucent International,,,,5,,1,2,9,5,3,2,,27,C
+TK Holdings Inc,,,1,2,7,2,11,1,1,,1,,26,D
+Ethicon Endo-Surgery,,3,,1,,9,,1,4,6,1,1,26,D
+"Applied Materials, Inc",2,6,,,2,2,3,1,5,2,,3,26,C
+Ericsson AB,1,,,1,,,19,1,1,1,1,,25,D
+Magna Electronics Inc.,,,1,,5,1,1,7,,6,3,1,25,C
+Abbott Laboratories,2,,4,,,6,2,5,,2,1,2,24,C
+Parker Aerospace,4,9,,3,,,,4,1,1,1,1,24,D
+KLA-TENCOR CORPORATION,,1,4,1,3,3,2,4,3,,1,1,23,C
+HCL Technologies Ltd.,2,,,1,1,3,,3,,4,1,7,22,C
+Harris Corporation,1,,,1,5,,,,,13,1,,21,D
+"Infor Global Solutions (GA), Inc",,1,3,2,,,2,9,,,2,2,21,D
+Crane Aerospace,1,,3,2,2,2,3,1,,1,4,,19,C
+Manitowoc Foodservices Companies LL,1,8,,1,4,1,,2,1,,,1,19,D
+Staples Inc,,,,,,,,,13,,,6,19,A
+"AIXTRON Inc.,",2,2,,2,2,6,,,,1,1,2,18,C
+CMC Electronics Inc.,,,8,,,,9,,,,1,,18,A
+HEWLETT PACKARD,,,5,12,,,,,,,,,17,A
+"Nest Labs, Inc",,,,,,,,,1,7,,8,16,A
+Zodiac Inflight Innovations,,,,,,,,,,4,6,5,15,A
+Facebook Inc,,,1,3,2,,2,,,4,2,1,15,C
+Meggitt,,2,1,2,,2,1,2,,,3,1,14,C
+Medtronic Inc,,,,,,2,1,1,3,,5,2,14,C
+Teradyne Inc,,,,6,1,1,,,,1,3,2,14,C
+Hospira,1,1,3,3,,4,1,,,,1,,14,C
+"ABIOMED, INC",1,,1,1,,3,1,1,,2,3,,13,C
+Animas Corporation,,,2,1,3,,2,1,,2,,1,12,C
+Xerox Corporation,,2,2,,1,3,,,1,2,1,,12,C
+GE Oil & Gas,,1,,1,,,,,1,6,3,,12,D
+Bombardier Aerospace,,,2,1,,,,2,,1,3,2,11,C
+Trimble Navigation Limited,,,,,2,1,2,2,,2,2,,11,C
+BOSTON SCIENTIFIC CORPORATION,,,,,,,,,,3,8,,11,A
+"BJ's Wholesale Club, Inc",,,,,2,5,1,,1,,2,,11,C
+Advanced Sterilisation Products Div,1,,,,,,,2,2,1,4,,10,C
+St.Jude Medical Inc,,,,,3,,,,1,1,1,3,9,C
+Monogram Systems,,,2,1,1,,1,2,,,1,1,9,C
+Comcast Cable Communications Manage,5,,3,,,,1,,,,,,9,C
+"Synopsys, Inc.",,,,,,,,,,9,,,9,A
+Biosense Webster Inc,,,1,1,1,,,,,,,6,9,D
+Vexata Inc.,,,,8,,1,,,,,,,9,C
+Panasonic Factory Solutions Company,,4,1,3,,,,,,,,,8,C
+"Axcelis Technologies, Inc",,,,,,2,1,,,1,2,2,8,C
+Eaton Corporation,,2,2,,1,1,,1,1,,,,8,C
+Turner Broadcasting System Inc.,1,2,1,1,,1,,,,,1,,7,C
+Siemens Manufacturing Limited,1,,,,,1,1,,2,1,,1,7,C
+GE Aviation,,2,,,,,,,,4,,,6,C
+Ford Motor Co,,,,,,1,,,,3,2,,6,C
+The IMS Company,,,,1,,2,,3,,,,,6,C
+"Brocade Communications Systems, Inc",,,,,,1,,1,2,,2,,6,C
+Genesys Aerosystems,,6,,,,,,,,,,,6,A
+LEGO System A/S,,2,1,1,1,,,1,,,,,6,C
+D+H Limited Partnership,,1,,,,1,,,1,2,,,5,C
+Johnson Controls Inc,,,,1,,,4,,,,,,5,C
+"ModelN, Inc",1,1,,2,,,,1,,,,,5,C
+GEICO,,,,,,,,,,3,,2,5,C
+AmerisourceBergen Corporation,,3,,,,,,1,,,,,4,C
+NetApp Inc,,,2,,,,,1,1,,,,4,C
+Technicolor USA Inc.,2,,,,,,,,,,,2,4,C
+Agilent Technologies,,,1,1,1,,,1,,,,,4,C
+IXI Technology,,,,,,,,,,,4,,4,C
+Vmware,,,,,,,,,,3,1,,4,C
+Juniper Networks Inc.,,,,,,2,,,,,2,,4,C
+Schneider Electric,,,,2,,,,2,,,,,4,C
+Acxiom Corporation,1,,,,1,,1,1,,,,,4,C
+"Celestica, Inc",,,,,,2,2,,,,,,4,C
+Teachers Insurance and Annuity,,,2,,1,,,,,,,,3,C
+Samsung Telecommunications America,1,,1,,,,,1,,,,,3,C
+"Veeco Instruments Inc.,",,,1,,,1,1,,,,,,3,C
+NCR Corporation,,,,,,,,1,,,2,,3,C
+EMC Corporation,,,,,,1,,,,,,2,3,C
+AERONAUTICAL DEVELOPMENT AGENCY,,,,,,,,,,3,,,3,C
+Endo Pharmaceuticals Inc.,,,,,1,1,,1,,,,,3,C
+Nutanix Inc,,,,2,,,,,1,,,,3,C
+Box,,,,1,,1,,,,,1,,3,C
+"Sabtech Industries, Inc.",,,,3,,,,,,,,,3,C
+Gigamon,,,,1,,,,2,,,,,3,C
+Micron Technology Inc.,,,,,,1,1,,,,,,2,C
+CNH America LLC,,,2,,,,,,,,,,2,C
+"Pride Capital Partners, LLC",,,,1,,,1,,,,,,2,C
+"Accudyne Industries, LLC.",,,,,,,,,1,1,,,2,C
+CEB Inc,,,,2,,,,,,,,,2,C
+Electrolux Appliances AB,,,,,,1,,,,1,,,2,C
+Manchester United,,,,,,,,,,,2,,2,C
+Schneider Electric Industries SAS,,,,,,2,,,,,,,2,C
+NEC HCL System Technologies Ltd,,,2,,,,,,,,,,2,C
+Whirlpool Corp,,,,,,,1,,,,1,,2,C
+"Nabtesco Aerospace, Inc",,,1,1,,,,,,,,,2,C
+Sprint Corporation,,,,,,,,,,,,2,2,C
+Telegraph media group,,,,,,,2,,,,,,2,C
+Gulfstream Aerospace Corporation,,,,1,1,,,,,,,,2,C
+TransEnterix Italia S.r.L,,,,,,,1,,1,,,,2,C
+Stanley Security Solutions,,,,,,2,,,,,,,2,C
+"Velodyne Acoustics, Inc.",,,,1,,,,,,1,,,2,C
+S-Tec Corporation,,2,,,,,,,,,,,2,C
+KLX Inc.,,,1,,,,,,1,,,,2,C
+McAfee Inc,,1,,,,,,,,,1,,2,C
+Nanometrics Inc,,,,1,,,,,,,,1,2,C
+"CIeNET International, LLC",,,,,2,,,,,,,,2,C
+Yahoo! Inc.,,,1,,,,,,,,,,1,C
+"Ethicon, Inc",,,,,,,,1,,,,,1,C
+DOW CORNING CORPORATION,,,,,,,,,,,1,,1,C
+BAE Systems,,,,,1,,,,,,,,1,C
+Sabre Holdings,,,,,,,,,,1,,,1,C
+Norriseal Wellmark,,,,,,,1,,,,,,1,C
+JCB India Limited,,,1,,,,,,,,,,1,C
+BROTHER INDUSTRIES LTD,,,,,,1,,,,,,,1,C
+VDL Enabling Technologies Group,,1,,,,,,,,,,,1,C
+"Physio-Control, Inc.",,,,,,,,,,1,,,1,C
+AbbVie,,,,,1,,,,,,,,1,C
+GKN Sinter Metals Ltd.,,,,,,,,,,,1,,1,C
+"Woodward , Inc.",,,,,,,1,,,,,,1,C
+"Liaison Technologies, Inc.",,,,,,,1,,,,,,1,C
+"Opnext Subsystems, Inc",1,,,,,,,,,,,,1,C
+Biogen Idec Inc,,,,,,,,,1,,,,1,C
+Johnson & Johnson,,,,,,,1,,,,,,1,C
+TERUMO CARDIOVASCULAR SYSTEMS CORP.,,,,,,,,,,,1,,1,C
+"Magic Leap, Inc",1,,,,,,,,,,,,1,C
+"Adaptec, Inc",,,,,,,1,,,,,,1,C
+Spansion LLC.,,,,,,,1,,,,,,1,C
+Ingersoll Rand,,1,,,,,,,,,,,1,C
+Keysight Technologies Inc.,,1,,,,,,,,,,,1,C
+The Chamberlain Group Inc,,,,,,,,,,,1,,1,C
+"CeleritiFintech Services USA, Inc.",,,,,,,1,,,,,,1,C
+"Merck & Co., Inc",,,,,,,,,,1,,,1,C
+Movimento Inc,,,,,,,,1,,,,,1,C
+Tiffany and Company,,1,,,,,,,,,,,1,C
+Konica Minolta Business Technologie,,,,,,,,,,,,1,1,C
+Banque De Montreal,1,,,,,,,,,,,,1,C
+Disney Worldwide Services,,,,,,,,,,,,1,1,C
+Tokyo Electron Software Technologie,,,1,,,,,,,,,,1,C
+"Solfice Research, Inc(Civil Maps)",,,,,,,,,1,,,,1,C
