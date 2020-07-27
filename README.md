@@ -3,6 +3,29 @@ temp
 3ALLP2qFyGRh3YS1Vn15nBSdGFQQo3vuL2
 
 
+
+
+def calculate_amount(data:Dict, ID: str, result: Dict, seconds: float) -> Dict:
+    # Get data about the first row given ID appears in
+    first_appearance = data['Id'].index(ID)
+    end_date = datetime.fromisoformat(data['Date'][first_appearance])
+    amount_sum = 0
+    # Traverse through all the other rows for same ID
+    for i, ident in enumerate(data['Id']):
+        if ident == ID and i != first_appearance:
+            start_date = datetime.fromisoformat(data['Date'][i])
+            if start_date < end_date and (end_date - start_date).total_seconds() <= seconds and data['Sys'][i] == 1:
+                # Difference between start_date and end_date is less than or equal to given `seconds`
+                amount_sum += data['Amount'][i]
+    # Update the results dict
+    result[ID] = amount_sum
+    return result
+
+amount_per_ID = {}
+amount_per_ID = calculate_amount(input_dat, '100', amount_per_ID, 30 * 60)
+print(f'Result after constructing for ID = 100: {amount_per_ID}')
+
+
 setwd("E:/Users/dilipkumar_t/LikeMe")
 #setwd("D:/Demand_seg/")
 #setwd("/home/san/Documents/da/")
