@@ -1,3 +1,45 @@
+import numpy as np
+import pandas as pd
+from sklearn.manifold import TSNE
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.feature_selection import SelectFromModel
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+
+# Assuming 'X' is your feature matrix and 'y' is your target variable
+
+# Example: Generating random data for demonstration purposes
+np.random.seed(42)
+X = np.random.rand(100, 10)
+y = np.random.choice([0, 1], size=100)
+
+# Random Forest for Feature Importance
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Standardize features
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+
+# Train Random Forest model
+rf_classifier = RandomForestClassifier(random_state=42)
+rf_classifier.fit(X_train_scaled, y_train)
+
+# Determine the number of components based on explained variance
+cumulative_variance = np.cumsum(rf_classifier.feature_importances_)
+explained_variance_threshold = 0.95  # Adjust as needed
+
+n_components = np.argmax(cumulative_variance >= explained_variance_threshold) + 1
+
+# Manifold Learning (t-SNE) with dynamically chosen n_components
+tsne = TSNE(n_components=n_components, random_state=42)
+X_tsne = tsne.fit_transform(X)
+
+# Print dynamically chosen n_components
+print(f"Dynamically Chosen n_components: {n_components}")
+
+
+
+
 setwd("E:/Users/dilipkumar_t/LikeMe")
 #setwd("D:/Demand_seg/")
 #setwd("/home/san/Documents/da/")
