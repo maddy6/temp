@@ -1,3 +1,54 @@
+import numpy as np
+import pandas as pd
+from sklearn.manifold import TSNE
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.feature_selection import SelectFromModel
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+
+# Assuming 'X' is your feature matrix and 'y' is your target variable
+
+# Example: Generating random data for demonstration purposes
+np.random.seed(42)
+X = np.random.rand(100, 10)
+y = np.random.choice([0, 1], size=100)
+
+# Manifold Learning (t-SNE)
+tsne = TSNE(n_components=2, random_state=42)
+X_tsne = tsne.fit_transform(X)
+
+# Random Forest for Feature Importance
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Standardize features
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+
+# Train Random Forest model
+rf_classifier = RandomForestClassifier(random_state=42)
+rf_classifier.fit(X_train_scaled, y_train)
+
+# Print Feature Importance
+feature_importances = rf_classifier.feature_importances_
+feature_names = [f"Feature {i}" for i in range(1, X.shape[1] + 1)]
+
+print("Feature Importance:")
+for name, importance in zip(feature_names, feature_importances):
+    print(f"{name}: {importance}")
+
+# Select features based on importance
+sfm = SelectFromModel(rf_classifier, threshold=0.2)  # Adjust threshold as needed
+sfm.fit(X_train_scaled, y_train)
+selected_features = X_train.columns[sfm.get_support()]
+
+# Print selected features
+print("\nSelected Features:")
+print(selected_features)
+
+
+
+
+
 # temp
 temp
 3ALLP2qFyGRh3YS1Vn15nBSdGFQQo3vuL2
