@@ -1,3 +1,34 @@
+from sklearn.cluster import FeatureAgglomeration
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+
+# Assuming 'X' is your feature matrix and 'y' is your target variable
+# Example: Generating random data for demonstration purposes
+X = np.random.rand(100, 10)
+y = np.random.choice([0, 1], size=100)
+
+# Split data into training and testing sets
+X_train, _, y_train, _ = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Specify the number of clusters (adjust as needed)
+n_clusters = 5
+
+# Perform Recursive Feature Clustering
+cluster_selector = FeatureAgglomeration(n_clusters=n_clusters)
+X_clustered = cluster_selector.fit_transform(X_train)
+
+# Get selected features
+selected_features_clustered = [f"Cluster_{i}" for i in range(1, n_clusters + 1)]
+
+print("Selected features using Recursive Feature Clustering:")
+print(selected_features_clustered)
+
+
+
+
+
+
+
 import numpy as np
 import pandas as pd
 from sklearn.manifold import TSNE
