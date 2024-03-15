@@ -1,3 +1,28 @@
+
+import pandas as pd
+
+# Assuming you have dataframes a and b
+# Let's say dataframe "a" looks like this:
+a = pd.DataFrame({'id': [1, 2, 3, 4],
+                  'rrr': ['value1', 'value2', 'value3', 'value4']})
+
+# And dataframe "b" looks like this:
+b = pd.DataFrame({'id': [2, 4]})
+
+# Merge the dataframes on 'id' column
+merged_df = pd.merge(b, a, on='id', how='left')
+
+# Create a new column 'rrr_a' with values from 'rrr' column
+merged_df['rrr_a'] = merged_df['rrr']
+
+print(merged_df)
+
+
+
+
+
+
+
 import numpy as np
 import pandas as pd
 from sklearn.manifold import TSNE
