@@ -1,4 +1,57 @@
 '''
+
+from datetime import datetime
+
+def validate_and_extract_date(date_string):
+    date_formats = [
+        '%Y-%m-%d %H:%M:%S %Z',   # Example: 2022-04-30 06:01:22 UTC
+        '%Y-%m-%d %H:%M:%S',       # Example: 2022-04-30 06:01:22
+        '%Y-%m-%d',                # Example: 2022-04-30
+        '%m/%d/%Y %H:%M:%S %Z',    # Example: 04/30/2022 06:01:22 UTC
+        '%m/%d/%Y %H:%M:%S',       # Example: 04/30/2022 06:01:22
+        '%m/%d/%Y',                # Example: 04/30/2022
+        '%m-%d-%Y %H:%M:%S %Z',    # Example: 04-30-2022 06:01:22 UTC
+        '%m-%d-%Y %H:%M:%S',       # Example: 04-30-2022 06:01:22
+        '%m-%d-%Y',                # Example: 04-30-2022
+        '%Y/%m/%d %H:%M:%S %Z',    # Example: 2022/04/30 06:01:22 UTC
+    ]
+    
+    for format_str in date_formats:
+        try:
+            # Parse the date string
+            date_obj = datetime.strptime(date_string, format_str)
+            
+            # Extract only the date part and convert it to string format
+            extracted_date = date_obj.date().strftime(format_str.split(' ')[0].replace('/', '-'))
+            
+            # Return the extracted date and True for validation
+            return extracted_date, True
+        except ValueError:
+            continue  # Try the next format if parsing fails
+
+    # If parsing fails for all formats, return None for the date and False for validation
+    return None, False
+
+# Example usage
+
+
+# Example usage
+date_string = '04-30-2022 06:01:22 UTC'
+extracted_date, is_valid = validate_and_extract_date(date_string)
+
+if is_valid:
+    print("Valid date:", extracted_date)
+else:
+    print("Invalid date format")
+
+
+
+'''
+
+
+
+
+'''
 from datetime import datetime
 
 def validate_and_extract_date(date_string):
