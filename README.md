@@ -1,4 +1,31 @@
 
+from datetime import datetime
+
+def validate_and_extract_date(date_string):
+    try:
+        # Parse the date string
+        date_obj = datetime.strptime(date_string, '%Y-%m-%d %H:%M:%S %Z')
+        
+        # Extract only the date part
+        extracted_date = date_obj.date()
+        
+        # Return the extracted date
+        return extracted_date, True
+    except ValueError:
+        # If parsing fails, return None for date and False for validation
+        return None, False
+
+# Example usage
+date_string = "2022-3-30 06:01:22 GMT"
+extracted_date, is_valid = validate_and_extract_date(date_string)
+
+if is_valid:
+    print("Valid date:", extracted_date)
+else:
+    print("Invalid date format")
+
+
+
 import pandas as pd
 
 # Assuming you have dataframes a and b
