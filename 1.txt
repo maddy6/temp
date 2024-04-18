@@ -1,4 +1,89 @@
 import pandas as pd
+import numpy as np
+
+# Generate sample data
+np.random.seed(42)
+amounts = np.random.randint(50, 1000, 3000)
+avg_amt_24_hrs = np.random.randint(100, 500, 3000)
+cnt_trxn_24_hrs = np.random.randint(1, 20, 3000)
+fraud_labels = np.random.randint(2, size=3000)
+
+# Create DataFrame
+transactions_df = pd.DataFrame({
+    'amount': amounts,
+    'avg_amt_24_hr': avg_amt_24_hrs,
+    'cnt_trxn_24_hr': cnt_trxn_24_hrs,
+    'fraud': fraud_labels
+})
+
+# Display the first few rows of the sample DataFrame
+print(transactions_df.head())
+
+# Now we can update the code with this sample dataset
+
+
+# Create a NetworkX graph
+G = nx.Graph()
+
+# Add nodes with features from DataFrame
+for i, row in transactions_df.iterrows():
+    G.add_node(i, amount=row['amount'], avg_amt_24_hr=row['avg_amt_24_hr'], cnt_trxn_24_hr=row['cnt_trxn_24_hr'])
+
+# Separate features and target variable
+X = transactions_df[['amount', 'avg_amt_24_hr', 'cnt_trxn_24_hr']]
+y = transactions_df['fraud']
+
+# Split data into train and test sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# # Initialize and train GBM model
+# gbm_model = GradientBoostingClassifier()
+# gbm_model.fit(X_train, y_train)
+
+
+# Initialize GBM model with feature names
+gbm_model = GradientBoostingClassifier()
+gbm_model.feature_names = list(X_train.columns)
+
+# Train GBM model
+gbm_model.fit(X_train, y_train)
+
+test_graph = nx.Graph()
+
+for i, row in X_test.iterrows():
+    test_graph.add_node(i, amount=row['amount'], avg_amt_24_hr=row['avg_amt_24_hr'], cnt_trxn_24_hr=row['cnt_trxn_24_hr'])
+
+
+predictions = []
+
+for node, data in test_graph.nodes(data=True):
+    
+    features = [data['amount'], data['avg_amt_24_hr'], data['cnt_trxn_24_hr']]
+    
+ 
+    prediction = gbm_model.predict([features])[0]
+    predictions.append(prediction)
+    
+    
+    
+from sklearn.metrics import precision_score, recall_score
+
+# Assuming you have made predictions and stored them in 'predictions' and 'y_test' contains the true labels
+
+# Calculate precision
+precision = precision_score(y_test, predictions)
+
+# Calculate recall
+recall = recall_score(y_test, predictions)
+
+print("Precision:", precision)
+print("Recall:", recall)
+
+
+
+
+
+import pandas as pd
 import networkx as nx
 
 # Sample DataFrame (replace this with your actual dataset)
