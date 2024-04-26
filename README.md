@@ -1,3 +1,28 @@
+import pandas as pd
+
+# Create a sample DataFrame
+data = {
+    'A': [1, 2, 3, 4, 5],
+    'B': [6, 7, 8, 9, 10],
+    'C': [11, 12, 13, 14, 15]
+}
+df = pd.DataFrame(data)
+
+# Define percentages for each column
+percentages = {'A': 0.2, 'B': 0.7, 'C': 0.1}
+
+# Function to select a percentage of rows from each column based on the specified percentages
+def select_percentage_of_rows(column):
+    col_name = column.name
+    return column.sample(frac=percentages[col_name])
+
+# Apply the function to each column
+selected_data = df.apply(select_percentage_of_rows)
+
+print(selected_data)
+
+
+
 '''
 
 from datetime import datetime
