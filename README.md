@@ -1,3 +1,30 @@
+
+import pandas as pd
+
+# Create a sample DataFrame
+data = {
+    'Category': ['A', 'A', 'B', 'B', 'B', 'C', 'C', 'C', 'C', 'C'],
+    'Count': [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+}
+df = pd.DataFrame(data)
+
+# Define percentages for each category
+percentages = {'A': 0.2, 'B': 0.7, 'C': 0.1}
+
+# Function to select a percentage of rows for each category
+def select_percentage_of_rows(row):
+    category = row['Category']
+    return row.sample(frac=percentages[category])
+
+# Apply the function to the DataFrame grouped by 'Category'
+selected_data = df.groupby('Category', group_keys=False).apply(select_percentage_of_rows)
+
+print(selected_data)
+
+
+
+
+
 import pandas as pd
 
 # Create a sample DataFrame
