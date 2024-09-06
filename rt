@@ -11,6 +11,10 @@ and deep learning techniques, we can proactively predict and address potential i
 reduces maintenance costs by shifting from reactive repairs to proactive, data-driven maintenance strategies, ultimately preventing costly emergency
 fixes and revenue loss
 
+Financial software systems often suffer from unexpected outages that disrupt services and incur high maintenance costs.
+Leveraging advanced machine learning and deep learning techniques can predict and mitigate these issues proactively, reducing downtime and costly emergency repairs
+
+
 
 Slide 1: Problem Statement, Current Architecture, and Proposed Solution
 A. Problem Statement
