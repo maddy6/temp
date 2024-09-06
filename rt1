@@ -47,24 +47,24 @@ Cost Savings: Estimated savings of $4-6 million per year due to reduced manual e
 
 
 Slide 2: Solution Framework
-Data Collection
-
-Sources: Server metrics, transaction logs, error reports, system performance data.
-Preprocessing: Clean and normalize data, handle missing values, and extract relevant features.
-Model Training
-
-Feature Engineering: Create features such as average load, peak usage times, and error frequency.
-Predictive Models: Apply time series forecasting (e.g., ARIMA), regression analysis, and classification algorithms (e.g., Random Forest, XGBoost) to predict failures.
-Mathematics:
-
-Regression Analysis: Model the relationship between system parameters and failures.
-Time Series Analysis: Forecast future system states based on historical patterns.
-Anomaly Detection: Identify deviations from normal operating conditions using algorithms like Isolation Forest or One-Class SVM.
-Real-Time Analysis
-
-Predictive Alerts: Generate real-time alerts when predictions indicate potential system failures.
-Automated Actions: Trigger automated preventive actions such as scaling resources or initiating maintenance protocols.
-Feedback Loop
+1. Data Collection
+Sources:
+Server metrics (CPU, memory, disk I/O)
+Transaction logs
+Error reports
+System performance data
+Preprocessing: Clean, normalize, and extract key features like average load and error frequency.
+2. Model Training
+Feature Engineering: Create relevant features from system data (e.g., average load, peak usage).
+Predictive Models:
+LSTM (Long Short-Term Memory): Analyzes time series data to forecast future system states.
+Transformer Models: Captures complex patterns and long-term dependencies for accurate predictions.
+Classification Algorithms: Random Forest and XGBoost for identifying potential failures.
+3. Real-Time Analysis
+Predictive Alerts: Immediate notifications when potential failures are detected.
+Automated Actions: Proactively scale resources or initiate maintenance to prevent issues.
+4. Feedback Loop
+Model Updates: Continuously retrain models with new data to improve accuracy and adapt to changes.
 
 
 
