@@ -1,3 +1,45 @@
+I want to create 3 slides on topic "State of the art Strategy rules creation using ML, and Optimised combination of user variables for different POS modes such as 3ds, Chip etc".
+
+In first slides I want 3 sections namely a. Problem statement (descrive how much time consuming process of creating manual strategy rules using manual human being as we are creating the strategies to reduce the frauds ). Give me proper problem statement for the description I have given here.
+
+B. Current architecture ( here you can explain how time consuming process is for create strategies using different combinations of user variables). 
+
+C. Current proposed solution ( here explain how we can automate this strategy rules creation using ML and combinations logics using user variables).here there are two aspects we are using. First is we first create significant variables using ML algorithms and then on those significant variables we try to generate different combinations of strategies based on different KPI's like Hit rate ,VDR.
+
+Here give me some metrics like how much we can save if we opt this optimization solution.
+Give me highlights for this to impress the audience 
+
+In the second slide give me solution framework (here explain all the start to end process with all the mathematicas as well as where we start with creating ml model to get the significant variables and then how we use customized approach to give the user the their decided variables as they are SME, so means we are giving both approaches like directly creating strategy from the significant variables or user can enter their variables to get the optimal strategies based on the different KPI's like hit rate, VDR).
+
+
+
+In the third slide give me below sections
+1. Impact ( this should be in number like how much we are saving in terms of $ or it could be manual human hours we are saving)
+
+2. Scalability of the solution 
+
+3. How to implement the solution 
+
+4. Challenges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### **Slide 1: Introduction to Geo-Spatial Analysis of Fraud Hotspots**
 
 #### **A. Problem Statement**
