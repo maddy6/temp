@@ -96,6 +96,18 @@ Automated Actions: Proactively scale resources or initiate maintenance to preven
 Model Updates: Continuously retrain models with new data to improve accuracy and adapt to changes.
 
 
+How it works
+| Timestamp           | Server_ID | CPU_Usage (%) | Memory_Usage (MB) | Disk_IO (MB/s) | Transaction_Volume | Error_Code | System_Response_Time (ms) |
+|---------------------|-----------|---------------|-------------------|----------------|--------------------|------------|---------------------------|
+| 2024-09-01 10:00:00 | Server_01 | 75.2          | 3200              | 120            | 4500               | None       | 120                       |
+| 2024-09-01 10:05:00 | Server_01 | 80.5          | 3300              | 130            | 4700               | ERR_503    | 200                       |
+| 2024-09-01 10:10:00 | Server_02 | 55.7          | 2900              | 115            | 3900               | None       | 110                       |
+| 2024-09-01 10:15:00 | Server_03 | 90.1          | 4000              | 140            | 5200               | ERR_504    | 350                       |
+| 2024-09-01 10:20:00 | Server_02 | 60.3          | 2950              | 118            | 4000               | None       | 115                       |
+| 2024-09-01 10:25:00 | Server_03 | 92.4          | 4100              | 150            | 5400               | ERR_500    | 400                       |
+
+
+
 
 Model Updates: Continuously retrain models with new data to adapt to changing system behaviors and improve predictions.
 Slide 3: Impact, Scalability, Implementation, and Challenges
