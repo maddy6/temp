@@ -1,3 +1,214 @@
+Yes, percentile-based threshold selection is an effective technique for fraud detection, especially when you need to define dynamic thresholds based on data distribution rather than static values. It helps adjust thresholds automatically, reflecting real-time trends in transaction data, and is particularly useful in cases where fraud patterns are seasonal or volatile. Below is a detailed explanation of why and how to use percentile-based thresholds for fraud detection.
+
+
+---
+
+Why Use Percentile-Based Threshold Selection?
+
+1. Adaptive to Data Distribution:
+
+In fraud detection, transaction amounts, frequency, or velocity of transactions often follow non-normal distributions. A static threshold may fail to capture fraudulent behavior across different contexts (e.g., peak vs. off-peak shopping seasons).
+
+Percentile-based thresholds ensure that the rules adapt to current data trends. For example, a threshold at the 95th percentile will flag only the most extreme cases in a given dataset.
+
+
+
+2. Handles Data Skewness and Outliers:
+
+In fraud detection, data often contains long tails (a few very large transactions) and outliers. Using percentiles instead of fixed values helps reduce the impact of these outliers.
+
+
+
+3. Dynamic Adjustment:
+
+Percentile-based thresholds can be recomputed periodically (e.g., daily or weekly) based on the latest data, ensuring that the rules adapt to evolving patterns and trends.
+
+
+
+4. Scalable for Different Use Cases:
+
+This technique can be applied to various KPIs, such as transaction amount, frequency, velocity, or location-based scores.
+
+
+
+5. Maintains Customer Experience:
+
+By setting thresholds dynamically at percentiles (e.g., 90th or 95th percentile), the system avoids blocking too many legitimate transactions, which improves customer satisfaction.
+
+
+
+
+
+---
+
+How to Use Percentile-Based Thresholds in Fraud Detection
+
+Step 1: Identify the Variable for Thresholding
+
+Choose the variables where percentile-based thresholds are appropriate. Some examples:
+
+Transaction amount: Large transactions may indicate potential fraud.
+
+Frequency of transactions: A sudden spike in transactions could indicate account takeover.
+
+Time between transactions (velocity): Very short intervals between transactions might indicate suspicious activity.
+
+Risk scores: If using machine learning models, you can threshold based on model scores.
+
+
+
+---
+
+Step 2: Compute the Desired Percentile
+
+For each variable, you need to determine the appropriate percentile that defines the threshold. Common percentiles used are:
+
+90th percentile: Flags the top 10% of transactions.
+
+95th percentile: More conservative, flags the top 5%.
+
+99th percentile: Very strict, flags only the most extreme 1%.
+
+
+The choice of percentile depends on the business’s tolerance for risk and the cost of false positives vs. false negatives.
+
+Mathematical Definition of Percentile:
+The p-th percentile of a dataset with  values is the value below which  of the data lies. For a sorted dataset , the p-th percentile  is:
+
+P_p = X_{\lceil p \times n \rceil}
+
+
+---
+
+Step 3: Implement Percentile-Based Threshold
+
+Below are some common examples of how to compute and apply the thresholds.
+
+1. Transaction Amount Threshold Example:
+
+Collect transaction amounts over the past 7 days (or a relevant time window).
+
+Compute the 95th percentile of the transaction amounts.
+
+Set a threshold:
+If transaction amount > 95th percentile, flag as suspicious.
+
+
+
+2. Frequency of Transactions Example:
+
+Collect the number of transactions per customer in the past 24 hours.
+
+Compute the 90th percentile of transaction frequency.
+
+Set a threshold:
+If a customer makes more transactions than the 90th percentile, flag for review.
+
+
+
+3. Risk Score Threshold Example (if using machine learning models):
+
+Store model predictions (fraud scores) for recent transactions.
+
+Use the 99th percentile of these scores as the threshold.
+
+Set a rule:
+If predicted fraud score > 99th percentile, decline the transaction.
+
+
+
+
+
+---
+
+Step 4: Automate the Process with Data Pipelines
+
+1. Collect data: Use a data pipeline (e.g., Kafka, Apache Spark) to stream incoming transactions.
+
+
+2. Compute percentiles dynamically: Set up a sliding window (e.g., last 7 days) to recompute percentiles regularly.
+
+
+3. Apply rules automatically: As each transaction is processed, compare it against the percentile-based threshold and decide whether to approve, flag, or decline.
+
+
+4. Feedback loop: Use feedback from false positives and negatives to adjust the percentile thresholds over time.
+
+
+
+
+---
+
+Step 5: Evaluate the Performance of Percentile-Based Thresholds
+
+To determine if your chosen percentile threshold is optimal, you can measure:
+
+Precision: How many flagged transactions were truly fraudulent?
+
+Recall: How many actual fraudulent transactions were caught?
+
+False positive rate (FPR): How many legitimate transactions were flagged as fraud?
+
+Customer experience metrics: Measure the customer churn rate or complaints due to false positives.
+
+
+Tip: You can also use A/B testing to compare the performance of percentile-based thresholds against static thresholds or other ML-driven thresholds.
+
+
+---
+
+Advantages of Percentile-Based Threshold Selection
+
+1. Adaptive to Changes: Thresholds update based on the latest data, making them more robust to seasonal trends and emerging fraud patterns.
+
+
+2. Reduces False Positives: Helps avoid blocking legitimate transactions by dynamically adjusting based on the data’s natural distribution.
+
+
+3. Simplicity: Easier to understand and implement compared to complex ML models.
+
+
+4. Real-Time Capabilities: Works well with streaming data pipelines for real-time fraud detection.
+
+
+5. Applicable Across Variables: Can be used for transaction amounts, frequency, velocity, or model scores.
+
+
+
+
+---
+
+Limitations
+
+1. Requires Historical Data: To compute meaningful percentiles, a large and recent dataset is needed.
+
+
+2. Sensitive to Window Size: If the data window is too small, the threshold may fluctuate too much, leading to instability.
+
+
+3. Not Always Optimal: Percentile-based thresholds are based on past data, so they might not always generalize well to new fraud patterns. You might need machine learning models to complement them.
+
+
+4. Doesn’t Consider Business Objectives Directly: Percentiles don’t inherently account for the cost of false positives vs. false negatives, so combining them with cost-sensitive ML models can yield better results.
+
+
+
+
+---
+
+Conclusion
+
+Percentile-based threshold selection is a powerful and straightforward way to set dynamic thresholds that adjust based on real-time data distribution. It is particularly useful for fraud detection systems that need to respond quickly to changing patterns and reduce false positives without compromising security. However, to achieve the best results, it’s often beneficial to combine percentile-based thresholds with machine learning models and periodic threshold optimization techniques (e.g., Grid Search or Bayesian Optimization). This ensures a well-rounded approach that balances fraud detection, operational cost, and customer experience.
+
+
+
+
+
+
+
+
+
+
 Here’s a conceptual breakdown of a rule engine-based framework for BFSI use cases, focusing on ML-based rule creation and optimization:
 
 
